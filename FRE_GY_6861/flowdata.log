@@ -1,0 +1,1144 @@
+2021-12-04 18:32:24,792 - 
+2021-12-04 18:32:24,792 - Entering FlowData utility
+2021-12-04 18:32:24,797 - POTUS Account records <1260> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\stock_extraction_input.csv>
+2021-12-04 18:32:25,152 - POTUS Account records <5> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\stock_extraction_mapping.xlsx>
+2021-12-04 18:32:25,406 - POTUS Account records <1260> were written to <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\stock_extraction_output.xlsx>
+2021-12-04 18:32:25,406 - Leaving FlowData utility
+2021-12-04 18:43:39,658 - 
+2021-12-04 18:43:39,658 - Entering FlowData utility
+2021-12-04 18:43:39,673 - POTUS Account records <1260> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\stock_extraction_input.csv>
+2021-12-04 18:43:40,039 - POTUS Account records <5> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\stock_extraction_mapping.xlsx>
+2021-12-04 18:43:40,291 - POTUS Account records <1260> were written to <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\stock_extraction_output.xlsx>
+2021-12-04 18:43:40,291 - Leaving FlowData utility
+2021-12-12 15:32:24,802 - 
+2021-12-12 15:32:24,802 - Entering FlowData utility
+2021-12-12 15:32:24,802 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,802 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,802 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,803 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,803 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,803 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,803 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,804 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,804 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,804 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,804 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,804 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,804 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,804 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,804 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,804 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,804 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,804 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,804 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,804 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,804 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,804 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,804 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,804 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,804 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,804 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,804 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,804 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,804 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,804 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,805 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,805 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,805 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,805 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,805 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,805 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,805 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,805 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,805 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,805 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,805 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,805 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,805 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,805 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,805 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,805 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,805 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,805 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,805 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,806 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,806 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,806 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,806 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,806 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,806 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,806 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,806 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,806 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,806 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,806 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,806 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,806 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,806 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,806 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,806 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,806 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,806 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,806 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,806 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,806 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,807 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,807 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,807 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,807 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,807 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,807 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,807 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,807 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,807 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,807 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,807 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,807 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,807 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,807 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,807 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,807 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,807 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,807 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,807 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,808 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,808 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,808 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,808 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,808 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,808 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,808 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,808 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,808 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,808 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,808 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,808 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,808 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,808 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,808 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,808 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 15:32:24,808 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,808 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,808 - Leaving Function: convert_namespace_to_dict
+2021-12-12 15:32:24,808 - Entering Function: run_extraction with argument (args, config)
+2021-12-12 15:32:24,808 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,809 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,809 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,809 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,809 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 15:32:24,809 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,809 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,809 - Leaving Function: eval_update_mapping
+2021-12-12 15:32:24,809 - Entering Function: read_feature with argument (config)
+2021-12-12 15:32:24,809 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,809 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,809 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,809 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,809 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,809 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,809 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,809 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,809 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,809 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,810 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,810 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,810 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,810 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,815 - POTUS Account records <1260> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_input.csv>
+2021-12-12 15:32:24,820 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,820 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,820 - Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-12 15:32:24,825 - Leaving Function: apply_dtype_feature
+2021-12-12 15:32:24,825 - Leaving Function: read_feature
+2021-12-12 15:32:24,825 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,825 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,825 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,826 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,826 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,826 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,826 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 15:32:24,826 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,826 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,826 - Leaving Function: eval_update_mapping
+2021-12-12 15:32:24,826 - Entering Function: mapping_feature with argument (df, config)
+2021-12-12 15:32:24,826 - Entering Function: read_feature with argument (config)
+2021-12-12 15:32:24,826 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,826 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,826 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,826 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,826 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,826 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,826 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,826 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,827 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,827 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,827 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,827 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:24,827 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:24,827 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,149 - POTUS Account records <10> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-12 15:32:25,150 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,150 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,150 - Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-12 15:32:25,155 - Leaving Function: apply_dtype_feature
+2021-12-12 15:32:25,155 - Leaving Function: read_feature
+2021-12-12 15:32:25,155 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,155 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,155 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,155 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,158 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,158 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,159 - Leaving Function: mapping_feature
+2021-12-12 15:32:25,159 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,159 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,159 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,159 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,159 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 15:32:25,159 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,159 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,159 - Leaving Function: eval_update_mapping
+2021-12-12 15:32:25,159 - Entering Function: write_feature with argument (df, config)
+2021-12-12 15:32:25,159 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,159 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,160 - Entering Function: rename_feature with argument (df, config)
+2021-12-12 15:32:25,160 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,160 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,160 - Leaving Function: rename_feature
+2021-12-12 15:32:25,160 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,160 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,160 - Entering Function: assign_static_feature with argument (df, config)
+2021-12-12 15:32:25,160 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,160 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,161 - Leaving Function: assign_static_feature
+2021-12-12 15:32:25,161 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,161 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,161 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,161 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,161 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,161 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,161 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,162 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,162 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,162 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,162 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 15:32:25,162 - Leaving Function: eval_elem_mapping
+2021-12-12 15:32:25,665 - POTUS Account records <2520> were written to <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_output.xlsx>
+2021-12-12 15:32:25,665 - Leaving Function: write_feature
+2021-12-12 15:32:25,665 - Leaving Function: run_extraction
+2021-12-12 15:32:25,665 - Leaving FlowData utility
+2021-12-12 16:21:45,453 - 
+2021-12-12 16:21:45,454 - Entering FlowData utility
+2021-12-12 16:21:45,454 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,454 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,454 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,454 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,454 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,454 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,454 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,454 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,454 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,454 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,454 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,454 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,454 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,454 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,454 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,455 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,455 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,455 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,455 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,455 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,455 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,455 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,455 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,455 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,455 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,455 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,455 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,455 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,455 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,455 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,455 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,455 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,455 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,455 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,455 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,456 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,456 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,456 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,456 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,456 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,456 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,456 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,456 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,456 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,456 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,456 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,456 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,456 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,456 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,456 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,456 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,456 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,456 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,456 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,456 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,457 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,458 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,458 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,458 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,458 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,458 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:21:45,458 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,458 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,458 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:21:45,458 - Entering Function: run_extraction with argument (args, config)
+2021-12-12 16:21:45,458 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,458 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,458 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,458 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,458 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 16:21:45,458 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,458 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,458 - Leaving Function: eval_update_mapping
+2021-12-12 16:21:45,458 - Entering Function: read_feature with argument (config)
+2021-12-12 16:21:45,458 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,459 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,459 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,459 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,459 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,459 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,459 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,459 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,459 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,459 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,459 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,459 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,459 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,459 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,464 - potus account extraction records <1260> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_input.csv>
+2021-12-12 16:21:45,465 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,465 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,465 - Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-12 16:21:45,489 - Leaving Function: apply_dtype_feature
+2021-12-12 16:21:45,489 - Leaving Function: read_feature
+2021-12-12 16:21:45,490 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,490 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,490 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,490 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,490 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,490 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,490 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 16:21:45,490 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,490 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,490 - Leaving Function: eval_update_mapping
+2021-12-12 16:21:45,490 - Entering Function: mapping_feature with argument (df, config)
+2021-12-12 16:21:45,490 - Entering Function: read_feature with argument (config)
+2021-12-12 16:21:45,490 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,490 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,490 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,490 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,490 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,491 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,491 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,491 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,491 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,491 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,491 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,491 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,491 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,491 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,781 - potus account extraction records <10> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-12 16:21:45,781 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,781 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,783 - Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-12 16:21:45,784 - Leaving Function: apply_dtype_feature
+2021-12-12 16:21:45,784 - Leaving Function: read_feature
+2021-12-12 16:21:45,784 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,784 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,784 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,784 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,794 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,794 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,795 - Leaving Function: mapping_feature
+2021-12-12 16:21:45,795 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,795 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,795 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,795 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,796 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 16:21:45,796 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,796 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,796 - Leaving Function: eval_update_mapping
+2021-12-12 16:21:45,796 - Entering Function: write_feature with argument (df, config)
+2021-12-12 16:21:45,796 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,796 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,796 - Entering Function: rename_feature with argument (df, config)
+2021-12-12 16:21:45,796 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,796 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,797 - Leaving Function: rename_feature
+2021-12-12 16:21:45,797 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,797 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,797 - Entering Function: assign_static_feature with argument (df, config)
+2021-12-12 16:21:45,797 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,797 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,798 - Leaving Function: assign_static_feature
+2021-12-12 16:21:45,798 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,798 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,798 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,798 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,798 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,798 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,798 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,798 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,798 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,798 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:45,798 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:21:45,799 - Leaving Function: eval_elem_mapping
+2021-12-12 16:21:46,187 - potus account extraction records <2520> were written to <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_output.xlsx>
+2021-12-12 16:21:46,187 - Leaving Function: write_feature
+2021-12-12 16:21:46,187 - Leaving Function: run_extraction
+2021-12-12 16:21:46,187 - Leaving FlowData utility
+2021-12-12 16:22:53,937 - 
+2021-12-12 16:22:53,938 - Entering FlowData utility
+2021-12-12 16:22:53,938 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,938 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,938 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,938 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,938 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,938 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,938 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,938 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,938 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,938 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,938 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,938 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,938 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,938 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,938 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,939 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,939 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,939 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,939 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,939 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,939 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,939 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,939 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,939 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,939 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,939 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,939 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,939 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,939 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,939 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,939 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,939 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,939 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,939 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,940 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,940 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,940 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,940 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,940 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,940 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,940 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,940 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,940 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,940 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,940 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,940 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,940 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,940 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,940 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,940 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,940 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,940 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,941 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,941 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,941 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,941 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,941 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,941 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,941 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,941 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,941 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,941 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,941 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,941 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,941 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,941 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,941 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,941 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,941 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,941 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,942 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,942 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,942 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,942 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,942 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,942 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,942 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,942 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,942 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,942 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,942 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,942 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,942 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,942 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,942 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,942 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,942 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,942 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,942 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:22:53,943 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,943 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,943 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:22:53,943 - Entering Function: run_extraction with argument (args, config)
+2021-12-12 16:22:53,943 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,943 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,943 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,943 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,943 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 16:22:53,943 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,943 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,943 - Leaving Function: eval_update_mapping
+2021-12-12 16:22:53,943 - Entering Function: read_feature with argument (config)
+2021-12-12 16:22:53,943 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,943 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,943 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,943 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,944 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,944 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,944 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,944 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,944 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,944 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,944 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,944 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,944 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,944 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,950 - potus account extraction records <1260> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_input.csv>
+2021-12-12 16:22:53,950 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,950 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,951 - Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-12 16:22:53,983 - Leaving Function: apply_dtype_feature
+2021-12-12 16:22:53,983 - Leaving Function: read_feature
+2021-12-12 16:22:53,983 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,983 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,983 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,983 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,983 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,984 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,984 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 16:22:53,984 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,984 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,984 - Leaving Function: eval_update_mapping
+2021-12-12 16:22:53,984 - Entering Function: mapping_feature with argument (df, config)
+2021-12-12 16:22:53,984 - Entering Function: read_feature with argument (config)
+2021-12-12 16:22:53,984 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,984 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,984 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,984 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,985 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,985 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,985 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,985 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,985 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,985 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,985 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,985 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:53,985 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:53,985 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,297 - potus account extraction records <10> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-12 16:22:54,297 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,297 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,297 - Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-12 16:22:54,300 - Leaving Function: apply_dtype_feature
+2021-12-12 16:22:54,300 - Leaving Function: read_feature
+2021-12-12 16:22:54,300 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,300 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,300 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,300 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,303 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,303 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,304 - Leaving Function: mapping_feature
+2021-12-12 16:22:54,304 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,304 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,304 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,304 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,304 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 16:22:54,304 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,304 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,304 - Leaving Function: eval_update_mapping
+2021-12-12 16:22:54,304 - Entering Function: write_feature with argument (df, config)
+2021-12-12 16:22:54,304 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,304 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,304 - Entering Function: rename_feature with argument (df, config)
+2021-12-12 16:22:54,304 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,305 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,305 - Leaving Function: rename_feature
+2021-12-12 16:22:54,305 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,305 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,305 - Entering Function: assign_static_feature with argument (df, config)
+2021-12-12 16:22:54,305 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,305 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,306 - Leaving Function: assign_static_feature
+2021-12-12 16:22:54,306 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,306 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,306 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,306 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,306 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,306 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,306 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,306 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,306 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,306 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,306 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:22:54,306 - Leaving Function: eval_elem_mapping
+2021-12-12 16:22:54,666 - potus account extraction records <2520> were written to <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_output.xlsx>
+2021-12-12 16:22:54,666 - Leaving Function: write_feature
+2021-12-12 16:22:54,666 - Leaving Function: run_extraction
+2021-12-12 16:22:54,667 - Leaving FlowData utility
+2021-12-12 16:32:00,685 - 
+2021-12-12 16:32:00,685 - Entering FlowData utility
+2021-12-12 16:32:00,685 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,685 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,685 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,685 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,685 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,685 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,685 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,685 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,685 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,686 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,686 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,686 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,686 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,686 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,686 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,686 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,686 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,686 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,686 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,686 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,686 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,686 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,686 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,686 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,686 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,686 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,686 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,686 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,686 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,686 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,687 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,687 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,687 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,687 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,687 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,687 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,687 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,687 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,687 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,687 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,687 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,687 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,687 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,687 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,687 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,687 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,687 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,687 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,687 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,687 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,688 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,688 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,688 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,688 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,688 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,688 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,688 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,688 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,688 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,688 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,688 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,688 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,689 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,689 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,689 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,689 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,689 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,689 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,689 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,689 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,689 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,689 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,689 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,689 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,689 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,689 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,689 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,689 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,689 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,690 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,690 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,690 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,690 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,690 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,690 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,690 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,690 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,690 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,690 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 16:32:00,690 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,690 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,690 - Leaving Function: convert_namespace_to_dict
+2021-12-12 16:32:00,690 - Entering Function: run_extraction with argument (args, config)
+2021-12-12 16:32:00,690 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,690 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,690 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,690 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,691 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 16:32:00,691 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,691 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,691 - Leaving Function: eval_update_mapping
+2021-12-12 16:32:00,691 - Entering Function: read_feature with argument (config)
+2021-12-12 16:32:00,691 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,691 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,691 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,691 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,691 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,691 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,691 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,692 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,692 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,692 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,692 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,692 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,692 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,692 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,697 - potus account extraction records <1260> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_input.csv>
+2021-12-12 16:32:00,698 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,698 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,698 - Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-12 16:32:00,717 - Leaving Function: apply_dtype_feature
+2021-12-12 16:32:00,717 - Leaving Function: read_feature
+2021-12-12 16:32:00,717 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,717 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,717 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,717 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,718 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,718 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,718 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 16:32:00,718 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,718 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,718 - Leaving Function: eval_update_mapping
+2021-12-12 16:32:00,718 - Entering Function: mapping_feature with argument (df, config)
+2021-12-12 16:32:00,718 - Entering Function: read_feature with argument (config)
+2021-12-12 16:32:00,718 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,718 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,718 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,718 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,718 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,718 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,718 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,718 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,720 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,720 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,720 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,720 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:00,720 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:00,720 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,058 - potus account extraction records <10> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-12 16:32:01,058 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,058 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,058 - Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-12 16:32:01,061 - Leaving Function: apply_dtype_feature
+2021-12-12 16:32:01,061 - Leaving Function: read_feature
+2021-12-12 16:32:01,061 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,061 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,061 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,061 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,063 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,063 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,064 - Leaving Function: mapping_feature
+2021-12-12 16:32:01,064 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,064 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,064 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,065 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,065 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 16:32:01,065 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,065 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,065 - Leaving Function: eval_update_mapping
+2021-12-12 16:32:01,065 - Entering Function: write_feature with argument (df, config)
+2021-12-12 16:32:01,065 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,065 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,065 - Entering Function: rename_feature with argument (df, config)
+2021-12-12 16:32:01,065 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,065 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,066 - Leaving Function: rename_feature
+2021-12-12 16:32:01,066 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,066 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,066 - Entering Function: assign_static_feature with argument (df, config)
+2021-12-12 16:32:01,066 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,066 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,067 - Leaving Function: assign_static_feature
+2021-12-12 16:32:01,067 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,067 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,067 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,067 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,067 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,067 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,067 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,067 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,067 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,067 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,067 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 16:32:01,067 - Leaving Function: eval_elem_mapping
+2021-12-12 16:32:01,450 - potus account extraction records <2520> were written to <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_output.xlsx>
+2021-12-12 16:32:01,450 - Leaving Function: write_feature
+2021-12-12 16:32:01,450 - Leaving Function: run_extraction
+2021-12-12 16:32:01,450 - Leaving FlowData utility
+2021-12-12 17:16:40,363 - 
+2021-12-12 17:16:40,364 - Entering FlowData utility
+2021-12-12 17:16:40,364 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,364 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,364 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,364 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,364 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,364 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,364 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,364 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,364 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,364 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,364 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,364 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,364 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,365 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,365 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,365 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,365 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,365 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,365 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,365 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,365 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,365 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,365 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,365 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,365 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,365 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,365 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,366 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,366 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,366 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,366 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,366 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,366 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,366 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,366 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,366 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,366 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,366 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,366 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,366 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,366 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,366 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,366 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,366 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,366 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,366 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,366 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,366 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,366 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,367 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,367 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,368 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,368 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,368 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,368 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,368 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,368 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,368 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,368 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,368 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,368 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,368 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:16:40,368 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,368 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,368 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:16:40,368 - Entering Function: run_extraction with argument (args, config)
+2021-12-12 17:16:40,369 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:16:40,369 - Leaving Function: eval_elem_mapping
+2021-12-12 17:16:40,369 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:16:40,369 - Leaving Function: eval_elem_mapping
+2021-12-12 17:16:40,369 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 17:16:40,369 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:16:40,369 - Leaving Function: eval_elem_mapping
+2021-12-12 17:16:40,369 - Leaving Function: eval_update_mapping
+2021-12-12 17:16:40,369 - Entering Function: read_feature with argument (config)
+2021-12-12 17:16:40,369 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:16:40,369 - Leaving Function: eval_elem_mapping
+2021-12-12 17:16:40,369 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:16:40,369 - Leaving Function: eval_elem_mapping
+2021-12-12 17:16:40,370 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:16:40,370 - Leaving Function: eval_elem_mapping
+2021-12-12 17:16:40,370 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:16:40,370 - Leaving Function: eval_elem_mapping
+2021-12-12 17:16:40,370 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:16:40,370 - Leaving Function: eval_elem_mapping
+2021-12-12 17:16:40,370 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:16:40,370 - Leaving FlowData utility incomplete with errors
+2021-12-12 17:18:32,131 - 
+2021-12-12 17:18:32,131 - Entering FlowData utility
+2021-12-12 17:18:32,131 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,131 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,131 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,131 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,131 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,131 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,131 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,131 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,132 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,132 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,132 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,132 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,132 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,132 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,132 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,132 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,132 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,132 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,132 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,132 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,132 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,132 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,132 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,132 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,132 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,132 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,133 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,133 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,133 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,133 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,133 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,133 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,133 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,133 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,133 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,133 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,133 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,133 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,133 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,133 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,133 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,133 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,133 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,133 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,133 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,133 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,133 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,134 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,134 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,134 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,134 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,134 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,134 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,134 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,134 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,134 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,134 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,134 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,134 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,134 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,134 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,134 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,134 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,134 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,134 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,134 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,134 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,135 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,135 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,135 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,135 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,135 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,135 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,135 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,135 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,135 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,135 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,135 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,135 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,135 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,135 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,135 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,135 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,135 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,135 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,135 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,135 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,135 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,136 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 17:18:32,136 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,136 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,136 - Leaving Function: convert_namespace_to_dict
+2021-12-12 17:18:32,136 - Entering Function: run_extraction with argument (args, config)
+2021-12-12 17:18:32,136 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,136 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,136 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,136 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,136 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 17:18:32,136 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,136 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,136 - Leaving Function: eval_update_mapping
+2021-12-12 17:18:32,136 - Entering Function: read_feature with argument (config)
+2021-12-12 17:18:32,136 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,136 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,136 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,136 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,136 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,137 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,137 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,137 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,137 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,137 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,137 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,137 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,137 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,137 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,142 - potus account extraction records <1260> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_input.csv>
+2021-12-12 17:18:32,142 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,142 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,142 - Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-12 17:18:32,157 - Leaving Function: apply_dtype_feature
+2021-12-12 17:18:32,157 - Leaving Function: read_feature
+2021-12-12 17:18:32,157 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,158 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,158 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,158 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,158 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,158 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,158 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 17:18:32,158 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,158 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,158 - Leaving Function: eval_update_mapping
+2021-12-12 17:18:32,158 - Entering Function: mapping_feature with argument (df, config)
+2021-12-12 17:18:32,158 - Entering Function: read_feature with argument (config)
+2021-12-12 17:18:32,158 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,158 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,158 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,158 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,158 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,158 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,158 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,158 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,159 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,159 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,159 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,159 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,159 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,159 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,500 - potus account extraction records <10> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-12 17:18:32,501 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,501 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,501 - Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-12 17:18:32,505 - Leaving Function: apply_dtype_feature
+2021-12-12 17:18:32,505 - Leaving Function: read_feature
+2021-12-12 17:18:32,506 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,506 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,506 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,506 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,509 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,509 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,511 - Leaving Function: mapping_feature
+2021-12-12 17:18:32,511 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,511 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,511 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,511 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,511 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 17:18:32,512 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,512 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,512 - Leaving Function: eval_update_mapping
+2021-12-12 17:18:32,512 - Entering Function: write_feature with argument (df, config)
+2021-12-12 17:18:32,512 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,512 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,512 - Entering Function: rename_feature with argument (df, config)
+2021-12-12 17:18:32,512 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,512 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,513 - Leaving Function: rename_feature
+2021-12-12 17:18:32,513 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,513 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,513 - Entering Function: assign_static_feature with argument (df, config)
+2021-12-12 17:18:32,513 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,513 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,514 - Leaving Function: assign_static_feature
+2021-12-12 17:18:32,515 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,515 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,515 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,515 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,515 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,515 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,515 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,515 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,515 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,515 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,516 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 17:18:32,516 - Leaving Function: eval_elem_mapping
+2021-12-12 17:18:32,873 - potus account extraction records <2520> were written to <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_output.xlsx>
+2021-12-12 17:18:32,874 - Leaving Function: write_feature
+2021-12-12 17:18:32,874 - Leaving Function: run_extraction
+2021-12-12 17:18:32,874 - Leaving FlowData utility

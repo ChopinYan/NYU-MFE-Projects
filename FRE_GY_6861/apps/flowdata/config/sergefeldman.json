@@ -1,0 +1,67 @@
+{
+    "feature_args": {
+        "-input": {
+            "dest": "input_path",
+            "help": "Input data path",
+            "required": "True"
+        },
+        "-output": {
+            "dest": "output_path",
+            "help": "Output data path",
+            "required": "True"
+        },
+        "-mapping": {
+            "dest": "mapping_path",
+            "help": "Mapping data path",
+            "required": "True"
+        }
+    },
+    "extraction": {
+        "description": "Serge Feldman",
+        "input": {
+            "read": {
+                "file_type": "csv",
+                "separator": "|",
+                "apply_dtype": {
+                    "INS_CODE": "str",
+                    "INS_OPTION_MNEMO": "str",
+                    "SERVICE_PROVIDED": "str",
+                    "EOY_AMT": "float",
+                    "CLIENT_TYPE": "str"
+                }
+            },
+            "plugin": null
+        },
+        "mapping": {
+            "read": {
+                "file_type": "excel",
+                "skip_rows": 0,
+                "use_cols": "A,B",
+                "sheet_name": 0,
+                "apply_dtype": {
+                    "INS": "str",
+                    "INS_ACCOUNT": "str"
+                }
+            },
+            "left_on": [
+                "INS_CODE"
+            ],
+            "right_on": [
+                "INS"
+            ],
+            "plugin": null
+        },
+        "output": {
+            "col_rename": {
+                "EOY_AMT": "AMOUNT",
+                "INS_OPTION_MNEMO": "EXT_ACCOUNT",
+                "INS_ACCOUNT": "MAP_ACCOUNT"
+            },
+            "assign_static": {
+                "CURRENCY": "USD",
+                "ACCOUNT": "SFELDMAN"
+            },
+            "plugin": null
+        }
+    }
+}

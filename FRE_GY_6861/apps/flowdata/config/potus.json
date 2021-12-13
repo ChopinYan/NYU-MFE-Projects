@@ -1,0 +1,135 @@
+{
+    "feature_args": {
+        "-input": {
+            "dest": "input_path",
+            "help": "Input data path",
+            "required": "True"
+        },
+        "-output": {
+            "dest": "output_path",
+            "help": "Output data path",
+            "required": "True"
+        },
+        "-mapping": {
+            "dest": "mapping_path",
+            "help": "Mapping data path",
+            "required": "True"
+        }
+    },
+    "extraction": {
+        "description": "potus account extraction",
+        "input": {
+            "read": {
+                "file_type": "csv",
+                "separator": ",",
+                "usecols": [
+                    "Date", "Close", "stk_code"
+                ],
+                "apply_dtype": {
+                    "Date": "datetime",
+                    "Close": "float",
+                    "stk_code": "str"
+                }
+            },
+            "plugin": null
+        },
+        "mapping": {
+            "read": {
+                "file_type": "excel",
+                "skip_rows": 0,
+                "sheet_name": 0,
+                "usecols": [
+                    "customer_name", "stock_position", "stock_name"
+                ],
+                "apply_dtype": {
+                    "customer_name": "str",
+                    "stock_position": "int",
+                    "stock_name": "str"
+                }
+            },
+            "left_on": [
+                "stk_code"
+            ],
+            "right_on": [
+                "stock_name"
+            ],
+            "plugin": null
+        },
+        "output": {
+            "write": {
+                "file_type": "excel",
+                "sheet_name": 0,
+                "mode": "new"
+            },
+            "col_rename": {
+                "Date": "DATE",
+                "Close": "CLOSE",
+                "stk_code": "TICKER",
+                "customer_name": "CUSTOMER",
+                "stock_position": "POSITION"
+            },
+            "assign_static": {
+                "CURRENCY": "USD",
+                "ACCOUNT": "POTUS"
+            },
+            "plugin": null
+        }
+    },
+    "transformation": {
+        "description": "potus account transformation",
+        "input": {
+            "read": {
+                "file_type": "excel",
+                "skip_rows": 0,
+                "sheet_name": 0,
+                "apply_dtype": {
+                    "DATE": "datetime",
+                    "CLOSE": "float",
+                    "TICKER": "str",
+                    "CUSTOMER": "str",
+                    "POSITION": "int",
+                    "CURRENCY": "str",
+                    "ACCOUNT": "str"
+                }
+            },
+            "plugin": null
+        },
+        "transform": {
+            "group_by": {
+                "groupby": [
+                "CUSTOMER", "TICKER"
+                ],
+                "columns": [
+                    "POSITION", "CLOSE"
+                ]
+            },
+            "pivot_table": {
+                "values": [
+                    "CLOSE", "POSITION"
+                ],
+                "index": [
+                    "CUSTOMER"
+                ],
+                "columns": [
+                    "TICKER"
+                ],
+                "aggfunc": "np.mean"
+            },
+            "plugin": null
+        },
+        "output": {
+            "write": {
+                "file_type": "excel",
+                "sheet_name": 0,
+                "mode": "new",
+                "apply_dtype": {
+                    "customer_name": "str",
+                    "account_number": "int",
+                    "stock_position": "int",
+                    "stock_name": "str"
+                }
+            },
+            "plugin": null
+        }
+    }
+}
