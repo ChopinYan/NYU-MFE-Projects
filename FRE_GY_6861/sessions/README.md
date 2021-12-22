@@ -1,1 +1,1 @@
-# Homework assingments submissions
+# Homework assignments submissions
