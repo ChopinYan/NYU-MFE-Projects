@@ -1,8 +1,10 @@
 import logging
 import pandas as pd
 import os
+from fall2021py.utils.misc_util import log_trace
 
 
+@ log_trace
 def read(description, path, file_type='excel', separator=',', skip_rows=0, use_cols=None, sheet_name=0):
     """
     Read file, along with validating provided path.
@@ -16,7 +18,7 @@ def read(description, path, file_type='excel', separator=',', skip_rows=0, use_c
     :return: pd.DataFrame; Resulted dataframe
     """
     df_target = None
-    if validate_path(path):
+    if validate_path(path, True):
         if file_type.lower() == 'csv':
             # Read csv based file.
             df_target = pd.read_csv(path, sep=separator, skiprows=skip_rows, usecols=use_cols)
@@ -31,19 +33,22 @@ def read(description, path, file_type='excel', separator=',', skip_rows=0, use_c
     return df_target
 
 
-def write(description, df, path, file_type, separator, mode):
+@ log_trace
+def write(df, description, path, file_type, index, separator=',', mode='new'):
     """
-    write an Excel file, based on given dataframe
+    Write file, along with validating provided path.
+    :param df: pd.DataFrame; Provided dataframe
     :param description: str; File description
-    :param df: pd.DataFrame; given dataframe ready to be written into a csv or an excel file
-    :param path: str; Fully qualified file name to write (maybe modified)
+    :param path: str; Fully qualified file name to read
     :param file_type: str, default='Excel'; Read type with possible values of 'csv' or 'excel'
+    :param index: bool; Index to write
     :param separator: str, default=','; Values separator
     :param mode: str; can either be overwrite or new
-    :return:
+    :return: null
     """
+    path_part, file_part = os.path.split(path)
     # run the function if the path is valid
-    if validate_path(path):
+    if validate_path(path_part, False):
         # different method of creating file path with given mode
         if mode == "new":
             new_path = revise_file_path(path)
@@ -55,16 +60,17 @@ def write(description, df, path, file_type, separator, mode):
 
         # write dataframe to the path with given file type
         if file_type.lower() == "csv":
+            # Write CSV based file.
             df.to_csv(new_path, sep=separator, index=False)
-            logging.info(f'{description} records <{len(df.index)}> were written to <{path}>')
         elif file_type.lower() == "excel":
-            df.to_excel(new_path, index=False)
-            logging.info(f'{description} records <{len(df.index)}> were written to <{path}>')
-        else:
-            logging.error(f'given file type <{file_type}> is invalid')
-            raise SyntaxError(f'given file type <{file_type}> is invalid')
+            # Write Excel based file.
+            with pd.ExcelWriter(new_path, engine='xlsxwriter') as excel_handler:
+                df.to_excel(excel_handler, index=index)
+
+        logging.info(f'{description} records <{len(df.index)}> were written to <{path}>')
 
 
+@ log_trace
 def revise_file_path(path):
     """
     revise the file path if it is existing, if not just return the given path
@@ -102,22 +108,16 @@ def revise_file_path(path):
         return os.path.join(directory, new_name)
 
 
-def validate_path(path, path_type="file"):
+@ log_trace
+def validate_path(path, file_mode=True):
     """
     Validate provided path.
-    :param path_type: str, default='file'; Read type with possible values of 'file' or 'directory'
-    :param path: str; Fully qualified path name
+    :param path: Fully qualified file path
+    :param file_mode: bool; default=True; Validate file or directory
     :return: bool; Resulted validation; either true or raise an exception
     """
-    if path_type == "file":
-        if not os.path.isfile(path):
-            logging.error(f'Provided file path is invalid: <{path}>')
-            raise FileNotFoundError(f'Provided file path is invalid: <{path}>')
+    if (file_mode and os.path.isfile(path)) or (not file_mode and os.path.isdir(path)):
+        return True
 
-    elif path_type == "directory":
-        if not os.path.isdir(path):
-            logging.error(f'Provided directory path is invalid: <{path}>')
-            raise NotADirectoryError(f'Provided file path is invalid: <{path}>')
-    return True
-
-
+    logging.error(f'Provided file path is invalid: <{path}>')
+    raise FileNotFoundError(f'Provided file path is invalid: <{path}>')

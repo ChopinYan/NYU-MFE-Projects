@@ -1142,3 +1142,1108 @@
 2021-12-12 17:18:32,874 - Leaving Function: write_feature
 2021-12-12 17:18:32,874 - Leaving Function: run_extraction
 2021-12-12 17:18:32,874 - Leaving FlowData utility
+2021-12-12 23:03:48,980 - 
+2021-12-12 23:03:48,980 - Entering FlowData utility
+2021-12-12 23:03:48,980 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,980 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,980 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,980 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,980 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,980 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,980 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,980 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,980 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,980 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,980 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,980 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,980 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,980 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,980 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,980 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,980 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,980 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,980 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,980 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,980 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,980 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,982 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,982 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,983 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,983 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,983 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,983 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,983 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,983 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,983 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,983 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,983 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,983 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,983 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,983 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,983 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,984 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,984 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,984 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,984 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,984 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,984 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,984 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,984 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,984 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,984 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,984 - Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-12 23:03:48,984 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,984 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,984 - Leaving Function: convert_namespace_to_dict
+2021-12-12 23:03:48,984 - Entering Function: run_extraction with argument (args, config)
+2021-12-12 23:03:48,984 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:48,984 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:48,984 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:48,984 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:48,984 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 23:03:48,984 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:48,984 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:48,984 - Leaving Function: eval_update_mapping
+2021-12-12 23:03:48,984 - Entering Function: read_feature with argument (config)
+2021-12-12 23:03:48,984 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:48,985 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:48,985 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:48,985 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:48,985 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:48,985 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:48,985 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:48,985 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:48,985 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:48,985 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:48,985 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:48,985 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:48,985 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:48,985 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:48,989 - potus account extraction records <1260> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_input.csv>
+2021-12-12 23:03:48,989 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:48,989 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:48,989 - Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-12 23:03:49,001 - Leaving Function: apply_dtype_feature
+2021-12-12 23:03:49,001 - Leaving Function: read_feature
+2021-12-12 23:03:49,001 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,001 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,001 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,001 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,001 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,001 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,001 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 23:03:49,001 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,002 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,002 - Leaving Function: eval_update_mapping
+2021-12-12 23:03:49,002 - Entering Function: mapping_feature with argument (df, config)
+2021-12-12 23:03:49,002 - Entering Function: read_feature with argument (config)
+2021-12-12 23:03:49,002 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,002 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,002 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,002 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,002 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,002 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,002 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,002 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,002 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,002 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,002 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,002 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,002 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,002 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,230 - potus account extraction records <10> were read from <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-12 23:03:49,230 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,230 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,231 - Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-12 23:03:49,232 - Leaving Function: apply_dtype_feature
+2021-12-12 23:03:49,232 - Leaving Function: read_feature
+2021-12-12 23:03:49,232 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,233 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,233 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,233 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,234 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,234 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,235 - Leaving Function: mapping_feature
+2021-12-12 23:03:49,235 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,235 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,235 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,235 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,235 - Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-12 23:03:49,235 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,235 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,235 - Leaving Function: eval_update_mapping
+2021-12-12 23:03:49,235 - Entering Function: write_feature with argument (df, config)
+2021-12-12 23:03:49,235 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,235 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,235 - Entering Function: rename_feature with argument (df, config)
+2021-12-12 23:03:49,236 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,236 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,236 - Leaving Function: rename_feature
+2021-12-12 23:03:49,236 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,236 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,236 - Entering Function: assign_static_feature with argument (df, config)
+2021-12-12 23:03:49,236 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,236 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,237 - Leaving Function: assign_static_feature
+2021-12-12 23:03:49,237 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,237 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,237 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,237 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,237 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,237 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,237 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,237 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,237 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,237 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,237 - Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-12 23:03:49,237 - Leaving Function: eval_elem_mapping
+2021-12-12 23:03:49,482 - potus account extraction records <2520> were written to <D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_output.xlsx>
+2021-12-12 23:03:49,482 - Leaving Function: write_feature
+2021-12-12 23:03:49,482 - Leaving Function: run_extraction
+2021-12-12 23:03:49,482 - Leaving FlowData utility
+2021-12-18 16:28:14,420 - 
+2021-12-18 16:28:14,422 - Entering FlowData utility
+2021-12-18 16:28:14,423 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:28:14,423 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:28:14,423 -         Leaving Function: convert_namespace_to_dict
+2021-12-18 16:28:14,423 -         Entering Function: run_extraction with argument (args, config)
+2021-12-18 16:28:14,423 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:28:14,423 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:28:14,423 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:28:14,423 -             Leaving Function: eval_update_mapping
+2021-12-18 16:28:14,423 -             Entering Function: read_feature with argument (config)
+2021-12-18 16:28:14,423 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:28:14,423 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:28:14,432 - potus account extraction records <1260> were read from <fall2021py\data\potus_extraction_input.csv>
+2021-12-18 16:28:14,433 -                 Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:28:14,447 -                 Leaving Function: apply_dtype_feature
+2021-12-18 16:28:14,447 -             Leaving Function: read_feature
+2021-12-18 16:28:14,447 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:28:14,447 -             Leaving Function: eval_func
+2021-12-18 16:28:14,447 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:28:14,447 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:28:14,447 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:28:14,447 -             Leaving Function: eval_update_mapping
+2021-12-18 16:28:14,447 -             Entering Function: mapping_feature with argument (df, config)
+2021-12-18 16:28:14,447 -                 Entering Function: read_feature with argument (config)
+2021-12-18 16:28:14,447 -                     Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:28:14,447 -                     Leaving Function: eval_elem_mapping
+2021-12-18 16:28:14,675 - potus account extraction records <25> were read from <fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-18 16:28:14,675 -                     Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:28:14,677 -                     Leaving Function: apply_dtype_feature
+2021-12-18 16:28:14,677 -                 Leaving Function: read_feature
+2021-12-18 16:28:14,677 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:28:14,677 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:28:14,680 -             Leaving Function: mapping_feature
+2021-12-18 16:28:14,680 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:28:14,680 -             Leaving Function: eval_func
+2021-12-18 16:28:14,680 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:28:14,680 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:28:14,680 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:28:14,681 -             Leaving Function: eval_update_mapping
+2021-12-18 16:28:14,681 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:28:14,681 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:28:14,681 -             Entering Function: rearrange_feature with argument (df, config)
+2021-12-18 16:28:14,681 -             Leaving Function: rearrange_feature
+2021-12-18 16:28:14,681 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:28:14,681 -             Leaving Function: eval_func
+2021-12-18 16:28:14,682 -             Entering Function: write_feature with argument (df, config)
+2021-12-18 16:28:14,682 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:28:14,682 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:28:15,203 - potus account extraction records <6300> were written to <fall2021py\data\potus_extraction_output.xlsx>
+2021-12-18 16:28:15,204 -             Leaving Function: write_feature
+2021-12-18 16:28:15,205 -         Leaving Function: run_extraction
+2021-12-18 16:28:15,205 - Leaving FlowData utility
+2021-12-18 16:35:20,136 - 
+2021-12-18 16:35:20,136 - Entering FlowData utility
+2021-12-18 16:35:20,136 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:35:20,136 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:35:20,136 -         Leaving Function: convert_namespace_to_dict
+2021-12-18 16:35:20,136 -         Entering Function: run_extraction with argument (args, config)
+2021-12-18 16:35:20,136 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:35:20,137 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:35:20,137 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:35:20,137 -             Leaving Function: eval_update_mapping
+2021-12-18 16:35:20,137 -             Entering Function: read_feature with argument (config)
+2021-12-18 16:35:20,137 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:35:20,137 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:35:20,140 - potus account extraction records <1260> were read from <fall2021py\data\potus_extraction_input.csv>
+2021-12-18 16:35:20,141 -                 Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:35:20,152 -                 Leaving Function: apply_dtype_feature
+2021-12-18 16:35:20,152 -             Leaving Function: read_feature
+2021-12-18 16:35:20,152 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:35:20,153 -             Leaving Function: eval_func
+2021-12-18 16:35:20,153 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:35:20,153 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:35:20,153 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:35:20,153 -             Leaving Function: eval_update_mapping
+2021-12-18 16:35:20,153 -             Entering Function: mapping_feature with argument (df, config)
+2021-12-18 16:35:20,153 -                 Entering Function: read_feature with argument (config)
+2021-12-18 16:35:20,153 -                     Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:35:20,153 -                     Leaving Function: eval_elem_mapping
+2021-12-18 16:35:20,378 - potus account extraction records <25> were read from <fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-18 16:35:20,378 -                     Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:35:20,380 -                     Leaving Function: apply_dtype_feature
+2021-12-18 16:35:20,380 -                 Leaving Function: read_feature
+2021-12-18 16:35:20,380 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:35:20,380 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:35:20,383 -             Leaving Function: mapping_feature
+2021-12-18 16:35:20,383 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:35:20,383 -             Leaving Function: eval_func
+2021-12-18 16:35:20,383 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:35:20,383 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:35:20,383 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:35:20,383 -             Leaving Function: eval_update_mapping
+2021-12-18 16:35:20,383 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:35:20,383 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:35:20,384 -             Entering Function: rearrange_feature with argument (df, config)
+2021-12-18 16:35:20,384 -             Leaving Function: rearrange_feature
+2021-12-18 16:35:20,384 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:35:20,384 -             Leaving Function: eval_func
+2021-12-18 16:35:20,384 -             Entering Function: write_feature with argument (df, config)
+2021-12-18 16:35:20,384 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:35:20,384 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:35:20,807 - potus account extraction records <6300> were written to <fall2021py\data\potus_extraction_output.xlsx>
+2021-12-18 16:35:20,808 -             Leaving Function: write_feature
+2021-12-18 16:35:20,808 -         Leaving Function: run_extraction
+2021-12-18 16:35:20,808 - Leaving FlowData utility
+2021-12-18 16:38:30,454 - 
+2021-12-18 16:38:30,454 - Entering FlowData utility
+2021-12-18 16:38:30,454 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:38:30,454 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:38:30,454 -         Leaving Function: convert_namespace_to_dict
+2021-12-18 16:38:30,454 -         Entering Function: run_extraction with argument (args, config)
+2021-12-18 16:38:30,454 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:38:30,454 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:38:30,454 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:38:30,454 -             Leaving Function: eval_update_mapping
+2021-12-18 16:38:30,454 -             Entering Function: read_feature with argument (config)
+2021-12-18 16:38:30,454 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:38:30,455 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:38:30,458 - potus account extraction records <1260> were read from <fall2021py\data\potus_extraction_input.csv>
+2021-12-18 16:38:30,459 -                 Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:38:30,470 -                 Leaving Function: apply_dtype_feature
+2021-12-18 16:38:30,471 -             Leaving Function: read_feature
+2021-12-18 16:38:30,471 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:38:30,471 -             Leaving Function: eval_func
+2021-12-18 16:38:30,471 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:38:30,471 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:38:30,471 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:38:30,471 -             Leaving Function: eval_update_mapping
+2021-12-18 16:38:30,471 -             Entering Function: mapping_feature with argument (df, config)
+2021-12-18 16:38:30,471 -                 Entering Function: read_feature with argument (config)
+2021-12-18 16:38:30,471 -                     Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:38:30,471 -                     Leaving Function: eval_elem_mapping
+2021-12-18 16:38:30,695 - potus account extraction records <25> were read from <fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-18 16:38:30,696 -                     Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:38:30,698 -                     Leaving Function: apply_dtype_feature
+2021-12-18 16:38:30,698 -                 Leaving Function: read_feature
+2021-12-18 16:38:30,698 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:38:30,698 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:38:30,700 -             Leaving Function: mapping_feature
+2021-12-18 16:38:30,701 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:38:30,701 -             Leaving Function: eval_func
+2021-12-18 16:38:30,701 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:38:30,701 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:38:30,701 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:38:30,701 -             Leaving Function: eval_update_mapping
+2021-12-18 16:38:30,701 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:38:30,701 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:38:30,701 -             Entering Function: rearrange_feature with argument (df, config)
+2021-12-18 16:38:30,702 -             Leaving Function: rearrange_feature
+2021-12-18 16:38:30,702 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:38:30,702 -             Leaving Function: eval_func
+2021-12-18 16:38:30,702 -             Entering Function: write_feature with argument (df, config)
+2021-12-18 16:38:30,702 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:38:30,702 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:38:31,127 - potus account extraction records <6300> were written to <fall2021py\data\potus_extraction_output.xlsx>
+2021-12-18 16:38:31,129 -             Leaving Function: write_feature
+2021-12-18 16:38:31,129 -         Leaving Function: run_extraction
+2021-12-18 16:38:31,129 - Leaving FlowData utility
+2021-12-18 16:41:00,306 - 
+2021-12-18 16:41:00,306 - Entering FlowData utility
+2021-12-18 16:41:00,306 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:41:00,306 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:41:00,306 -         Leaving Function: convert_namespace_to_dict
+2021-12-18 16:41:00,306 -         Entering Function: run_extraction with argument (args, config)
+2021-12-18 16:41:00,306 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:41:00,306 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:41:00,306 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:41:00,306 -             Leaving Function: eval_update_mapping
+2021-12-18 16:41:00,306 -             Entering Function: read_feature with argument (config)
+2021-12-18 16:41:00,306 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:41:00,306 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:41:00,310 - potus account extraction records <1260> were read from <fall2021py\data\potus_extraction_input.csv>
+2021-12-18 16:41:00,310 -                 Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:41:00,322 -                 Leaving Function: apply_dtype_feature
+2021-12-18 16:41:00,322 -             Leaving Function: read_feature
+2021-12-18 16:41:00,322 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:41:00,322 -             Leaving Function: eval_func
+2021-12-18 16:41:00,325 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:41:00,325 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:41:00,325 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:41:00,325 -             Leaving Function: eval_update_mapping
+2021-12-18 16:41:00,325 -             Entering Function: mapping_feature with argument (df, config)
+2021-12-18 16:41:00,325 -                 Entering Function: read_feature with argument (config)
+2021-12-18 16:41:00,325 -                     Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:41:00,325 -                     Leaving Function: eval_elem_mapping
+2021-12-18 16:41:00,546 - potus account extraction records <25> were read from <fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-18 16:41:00,547 -                     Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:41:00,548 -                     Leaving Function: apply_dtype_feature
+2021-12-18 16:41:00,548 -                 Leaving Function: read_feature
+2021-12-18 16:41:00,549 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:41:00,549 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:41:00,552 -             Leaving Function: mapping_feature
+2021-12-18 16:41:00,552 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:41:00,552 -             Leaving Function: eval_func
+2021-12-18 16:41:00,552 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:41:00,552 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:41:00,552 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:41:00,552 -             Leaving Function: eval_update_mapping
+2021-12-18 16:41:00,552 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:41:00,552 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:41:00,552 -             Entering Function: rearrange_feature with argument (df, config)
+2021-12-18 16:41:00,553 -             Leaving Function: rearrange_feature
+2021-12-18 16:41:00,553 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:41:00,553 -             Leaving Function: eval_func
+2021-12-18 16:41:00,553 -             Entering Function: write_feature with argument (df, config)
+2021-12-18 16:41:00,553 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:41:00,553 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:41:00,984 - potus account extraction records <6300> were written to <fall2021py\data\potus_extraction_output.xlsx>
+2021-12-18 16:41:00,985 -             Leaving Function: write_feature
+2021-12-18 16:41:00,986 -         Leaving Function: run_extraction
+2021-12-18 16:41:00,986 - Leaving FlowData utility
+2021-12-18 16:45:43,705 - 
+2021-12-18 16:45:43,705 - Entering FlowData utility
+2021-12-18 16:45:43,705 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:45:43,705 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:45:43,705 -         Leaving Function: convert_namespace_to_dict
+2021-12-18 16:45:43,705 -         Entering Function: run_extraction with argument (args, config)
+2021-12-18 16:45:43,705 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:45:43,705 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:45:43,705 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:45:43,705 -             Leaving Function: eval_update_mapping
+2021-12-18 16:45:43,711 -             Entering Function: read_feature with argument (config)
+2021-12-18 16:45:43,711 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:45:43,711 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:45:43,715 - potus account extraction records <1260> were read from <fall2021py\data\potus_extraction_input.csv>
+2021-12-18 16:45:43,715 -                 Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:45:43,727 -                 Leaving Function: apply_dtype_feature
+2021-12-18 16:45:43,727 -             Leaving Function: read_feature
+2021-12-18 16:45:43,727 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:45:43,727 -             Leaving Function: eval_func
+2021-12-18 16:45:43,727 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:45:43,727 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:45:43,727 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:45:43,727 -             Leaving Function: eval_update_mapping
+2021-12-18 16:45:43,727 -             Entering Function: mapping_feature with argument (df, config)
+2021-12-18 16:45:43,727 -                 Entering Function: read_feature with argument (config)
+2021-12-18 16:45:43,727 -                     Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:45:43,727 -                     Leaving Function: eval_elem_mapping
+2021-12-18 16:45:43,962 - potus account extraction records <25> were read from <fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-18 16:45:43,962 -                     Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:45:43,964 -                     Leaving Function: apply_dtype_feature
+2021-12-18 16:45:43,964 -                 Leaving Function: read_feature
+2021-12-18 16:45:43,964 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:45:43,964 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:45:43,967 -             Leaving Function: mapping_feature
+2021-12-18 16:45:43,967 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:45:43,967 -             Leaving Function: eval_func
+2021-12-18 16:45:43,967 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:45:43,967 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:45:43,967 - Leaving FlowData utility incomplete with errors
+2021-12-18 16:47:05,647 - 
+2021-12-18 16:47:05,647 - Entering FlowData utility
+2021-12-18 16:47:05,647 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:47:05,647 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:47:05,647 -         Leaving Function: convert_namespace_to_dict
+2021-12-18 16:47:05,647 -         Entering Function: run_extraction with argument (args, config)
+2021-12-18 16:47:05,647 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:47:05,647 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:47:05,647 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:47:05,647 -             Leaving Function: eval_update_mapping
+2021-12-18 16:47:05,647 -             Entering Function: read_feature with argument (config)
+2021-12-18 16:47:05,648 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:47:05,648 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:47:05,651 - potus account extraction records <1260> were read from <fall2021py\data\potus_extraction_input.csv>
+2021-12-18 16:47:05,652 -                 Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:47:05,664 -                 Leaving Function: apply_dtype_feature
+2021-12-18 16:47:05,664 -             Leaving Function: read_feature
+2021-12-18 16:47:05,664 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:47:05,664 -             Leaving Function: eval_func
+2021-12-18 16:47:05,664 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:47:05,664 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:47:05,664 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:47:05,664 -             Leaving Function: eval_update_mapping
+2021-12-18 16:47:05,664 -             Entering Function: mapping_feature with argument (df, config)
+2021-12-18 16:47:05,664 -                 Entering Function: read_feature with argument (config)
+2021-12-18 16:47:05,664 -                     Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:47:05,664 -                     Leaving Function: eval_elem_mapping
+2021-12-18 16:47:05,889 - potus account extraction records <25> were read from <fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-18 16:47:05,889 -                     Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:47:05,891 -                     Leaving Function: apply_dtype_feature
+2021-12-18 16:47:05,891 -                 Leaving Function: read_feature
+2021-12-18 16:47:05,891 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:47:05,891 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:47:05,894 -             Leaving Function: mapping_feature
+2021-12-18 16:47:05,894 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:47:05,894 -             Leaving Function: eval_func
+2021-12-18 16:47:05,894 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:47:05,894 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:47:05,894 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:47:05,894 -             Leaving Function: eval_update_mapping
+2021-12-18 16:47:05,894 -             Entering Function: assign_feature with argument (df, config)
+2021-12-18 16:47:05,894 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:47:05,894 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:47:05,896 -             Leaving Function: assign_feature
+2021-12-18 16:47:05,896 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:47:05,896 -             Leaving Function: eval_func
+2021-12-18 16:47:05,896 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:47:05,896 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:47:05,896 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:47:05,896 -             Leaving Function: eval_update_mapping
+2021-12-18 16:47:05,897 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:47:05,897 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:47:05,897 -             Entering Function: rearrange_feature with argument (df, config)
+2021-12-18 16:47:05,898 -             Leaving Function: rearrange_feature
+2021-12-18 16:47:05,898 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:47:05,898 -             Leaving Function: eval_func
+2021-12-18 16:47:05,898 -             Entering Function: write_feature with argument (df, config)
+2021-12-18 16:47:05,898 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:47:05,898 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:47:06,336 - potus account extraction records <6300> were written to <fall2021py\data\potus_extraction_output.xlsx>
+2021-12-18 16:47:06,339 -             Leaving Function: write_feature
+2021-12-18 16:47:06,339 -         Leaving Function: run_extraction
+2021-12-18 16:47:06,339 - Leaving FlowData utility
+2021-12-18 16:48:58,079 - 
+2021-12-18 16:48:58,079 - Entering FlowData utility
+2021-12-18 16:48:58,079 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:48:58,079 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 16:48:58,079 -         Leaving Function: convert_namespace_to_dict
+2021-12-18 16:48:58,079 -         Entering Function: run_extraction with argument (args, config)
+2021-12-18 16:48:58,079 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:48:58,079 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:48:58,079 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:48:58,079 -             Leaving Function: eval_update_mapping
+2021-12-18 16:48:58,079 -             Entering Function: read_feature with argument (config)
+2021-12-18 16:48:58,079 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:48:58,079 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:48:58,084 - potus account extraction records <1260> were read from <fall2021py\data\potus_extraction_input.csv>
+2021-12-18 16:48:58,084 -                 Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:48:58,096 -                 Leaving Function: apply_dtype_feature
+2021-12-18 16:48:58,096 -             Leaving Function: read_feature
+2021-12-18 16:48:58,096 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:48:58,096 -             Leaving Function: eval_func
+2021-12-18 16:48:58,096 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:48:58,096 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:48:58,096 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:48:58,096 -             Leaving Function: eval_update_mapping
+2021-12-18 16:48:58,096 -             Entering Function: mapping_feature with argument (df, config)
+2021-12-18 16:48:58,096 -                 Entering Function: read_feature with argument (config)
+2021-12-18 16:48:58,096 -                     Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:48:58,096 -                     Leaving Function: eval_elem_mapping
+2021-12-18 16:48:58,325 - potus account extraction records <25> were read from <fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-18 16:48:58,325 -                     Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 16:48:58,327 -                     Leaving Function: apply_dtype_feature
+2021-12-18 16:48:58,327 -                 Leaving Function: read_feature
+2021-12-18 16:48:58,327 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:48:58,327 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:48:58,330 -             Leaving Function: mapping_feature
+2021-12-18 16:48:58,330 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:48:58,330 -             Leaving Function: eval_func
+2021-12-18 16:48:58,330 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:48:58,330 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:48:58,330 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:48:58,330 -             Leaving Function: eval_update_mapping
+2021-12-18 16:48:58,330 -             Entering Function: assign_feature with argument (df, config)
+2021-12-18 16:48:58,330 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:48:58,330 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:48:58,332 -             Leaving Function: assign_feature
+2021-12-18 16:48:58,332 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:48:58,332 -             Leaving Function: eval_func
+2021-12-18 16:48:58,332 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:48:58,332 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:48:58,332 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 16:48:58,332 -             Leaving Function: eval_update_mapping
+2021-12-18 16:48:58,332 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:48:58,332 -             Leaving Function: eval_elem_mapping
+2021-12-18 16:48:58,332 -             Entering Function: rearrange_feature with argument (df, config)
+2021-12-18 16:48:58,333 -             Leaving Function: rearrange_feature
+2021-12-18 16:48:58,333 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 16:48:58,333 -             Leaving Function: eval_func
+2021-12-18 16:48:58,334 -             Entering Function: write_feature with argument (df, config)
+2021-12-18 16:48:58,334 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 16:48:58,334 -                 Leaving Function: eval_elem_mapping
+2021-12-18 16:48:58,901 - potus account extraction records <6300> were written to <fall2021py\data\potus_extraction_output.xlsx>
+2021-12-18 16:48:58,902 -             Leaving Function: write_feature
+2021-12-18 16:48:58,902 -         Leaving Function: run_extraction
+2021-12-18 16:48:58,902 - Leaving FlowData utility
+2021-12-18 20:35:13,048 - 
+2021-12-18 20:35:13,048 - Entering FlowData utility
+2021-12-18 20:35:13,048 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 20:35:13,048 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 20:35:13,048 -         Leaving Function: convert_namespace_to_dict
+2021-12-18 20:35:13,048 -         Entering Function: run_extraction with argument (args, config)
+2021-12-18 20:35:13,048 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:35:13,048 -             Leaving Function: eval_elem_mapping
+2021-12-18 20:35:13,048 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 20:35:13,048 -             Leaving Function: eval_update_mapping
+2021-12-18 20:35:13,048 -             Entering Function: read_feature with argument (config)
+2021-12-18 20:35:13,048 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:35:13,048 -                 Leaving Function: eval_elem_mapping
+2021-12-18 20:35:13,049 -                 Entering Function: read with argument (description, path, file_type='excel', separator=',', skip_rows=0, use_cols=None, sheet_name=0)
+2021-12-18 20:35:13,049 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-18 20:35:13,049 -                     Leaving Function: validate_path
+2021-12-18 20:35:13,054 - potus account extraction records <1260> were read from <fall2021py\data\potus_extraction_input.csv>
+2021-12-18 20:35:13,054 -                 Leaving Function: read
+2021-12-18 20:35:13,054 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:35:13,054 -                 Leaving Function: eval_elem_mapping
+2021-12-18 20:35:13,054 -                 Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 20:35:13,067 -                 Leaving Function: apply_dtype_feature
+2021-12-18 20:35:13,067 -             Leaving Function: read_feature
+2021-12-18 20:35:13,067 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 20:35:13,067 -             Leaving Function: eval_func
+2021-12-18 20:35:13,067 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:35:13,067 -             Leaving Function: eval_elem_mapping
+2021-12-18 20:35:13,068 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 20:35:13,068 -             Leaving Function: eval_update_mapping
+2021-12-18 20:35:13,068 -             Entering Function: mapping_feature with argument (df, config)
+2021-12-18 20:35:13,068 -                 Entering Function: read_feature with argument (config)
+2021-12-18 20:35:13,068 -                     Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:35:13,068 -                     Leaving Function: eval_elem_mapping
+2021-12-18 20:35:13,068 -                     Entering Function: read with argument (description, path, file_type='excel', separator=',', skip_rows=0, use_cols=None, sheet_name=0)
+2021-12-18 20:35:13,068 -                         Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-18 20:35:13,068 -                         Leaving Function: validate_path
+2021-12-18 20:35:13,358 - potus account extraction records <25> were read from <fall2021py\data\potus_extraction_mapping.xlsx>
+2021-12-18 20:35:13,358 -                     Leaving Function: read
+2021-12-18 20:35:13,358 -                     Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:35:13,358 -                     Leaving Function: eval_elem_mapping
+2021-12-18 20:35:13,358 -                     Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 20:35:13,361 -                     Leaving Function: apply_dtype_feature
+2021-12-18 20:35:13,361 -                 Leaving Function: read_feature
+2021-12-18 20:35:13,361 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:35:13,361 -                 Leaving Function: eval_elem_mapping
+2021-12-18 20:35:13,364 -             Leaving Function: mapping_feature
+2021-12-18 20:35:13,364 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 20:35:13,364 -             Leaving Function: eval_func
+2021-12-18 20:35:13,364 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:35:13,364 -             Leaving Function: eval_elem_mapping
+2021-12-18 20:35:13,364 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 20:35:13,364 -             Leaving Function: eval_update_mapping
+2021-12-18 20:35:13,364 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:35:13,364 -             Leaving Function: eval_elem_mapping
+2021-12-18 20:35:13,365 -             Entering Function: rearrange_feature with argument (df, config)
+2021-12-18 20:35:13,365 -             Leaving Function: rearrange_feature
+2021-12-18 20:35:13,365 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 20:35:13,365 -             Leaving Function: eval_func
+2021-12-18 20:35:13,365 -             Entering Function: write_feature with argument (df, config)
+2021-12-18 20:35:13,365 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:35:13,365 -                 Leaving Function: eval_elem_mapping
+2021-12-18 20:35:13,366 -                 Entering Function: write with argument (df, description, path, file_type, index, separator=',', mode='new')
+2021-12-18 20:35:13,366 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-18 20:35:13,366 -                     Leaving Function: validate_path
+2021-12-18 20:35:13,366 -                     Entering Function: revise_file_path with argument (path)
+2021-12-18 20:35:13,366 -                     Leaving Function: revise_file_path
+2021-12-18 20:35:18,906 - potus account extraction records <6300> were written to <fall2021py\data\potus_extraction_output.xlsx>
+2021-12-18 20:35:18,907 -                 Leaving Function: write
+2021-12-18 20:35:18,907 -             Leaving Function: write_feature
+2021-12-18 20:35:18,908 -         Leaving Function: run_extraction
+2021-12-18 20:35:18,908 - Leaving FlowData utility
+2021-12-18 20:42:56,497 - 
+2021-12-18 20:42:56,497 - Entering FlowData utility
+2021-12-18 20:42:56,497 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 20:42:56,497 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 20:42:56,497 -         Leaving Function: convert_namespace_to_dict
+2021-12-18 20:42:56,497 -         Entering Function: run_transformation with argument (args, config)
+2021-12-18 20:42:56,497 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:42:56,497 -             Leaving Function: eval_elem_mapping
+2021-12-18 20:42:56,497 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 20:42:56,497 -             Leaving Function: eval_update_mapping
+2021-12-18 20:42:56,497 -             Entering Function: read_feature with argument (config)
+2021-12-18 20:42:56,497 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:42:56,497 -                 Leaving Function: eval_elem_mapping
+2021-12-18 20:42:56,497 -                 Entering Function: read with argument (description, path, file_type='excel', separator=',', skip_rows=0, use_cols=None, sheet_name=0)
+2021-12-18 20:42:56,497 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-18 20:42:56,498 -                     Leaving Function: validate_path
+2021-12-18 20:42:57,057 - potus account transformation records <6300> were read from <fall2021py\data\potus_extraction_output_6.xlsx>
+2021-12-18 20:42:57,057 -                 Leaving Function: read
+2021-12-18 20:42:57,057 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:42:57,057 -                 Leaving Function: eval_elem_mapping
+2021-12-18 20:42:57,058 -                 Entering Function: apply_dtype_feature with argument (df, config)
+2021-12-18 20:42:57,085 - Leaving FlowData utility incomplete with errors
+2021-12-18 20:44:37,794 - 
+2021-12-18 20:44:37,794 - Entering FlowData utility
+2021-12-18 20:44:37,794 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 20:44:37,794 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-18 20:44:37,794 -         Leaving Function: convert_namespace_to_dict
+2021-12-18 20:44:37,794 -         Entering Function: run_transformation with argument (args, config)
+2021-12-18 20:44:37,794 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:44:37,794 -             Leaving Function: eval_elem_mapping
+2021-12-18 20:44:37,794 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 20:44:37,795 -             Leaving Function: eval_update_mapping
+2021-12-18 20:44:37,795 -             Entering Function: read_feature with argument (config)
+2021-12-18 20:44:37,795 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:44:37,795 -                 Leaving Function: eval_elem_mapping
+2021-12-18 20:44:37,795 -                 Entering Function: read with argument (description, path, file_type='excel', separator=',', skip_rows=0, use_cols=None, sheet_name=0)
+2021-12-18 20:44:37,795 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-18 20:44:37,795 -                     Leaving Function: validate_path
+2021-12-18 20:44:38,350 - potus account transformation records <6300> were read from <fall2021py\data\potus_extraction_output_6.xlsx>
+2021-12-18 20:44:38,350 -                 Leaving Function: read
+2021-12-18 20:44:38,350 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:44:38,351 -                 Leaving Function: eval_elem_mapping
+2021-12-18 20:44:38,351 -             Leaving Function: read_feature
+2021-12-18 20:44:38,351 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 20:44:38,351 -             Leaving Function: eval_func
+2021-12-18 20:44:38,351 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:44:38,351 -             Leaving Function: eval_elem_mapping
+2021-12-18 20:44:38,351 -             Entering Function: aggregate_feature with argument (df, config)
+2021-12-18 20:44:38,371 -             Leaving Function: aggregate_feature
+2021-12-18 20:44:38,371 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:44:38,371 -             Leaving Function: eval_elem_mapping
+2021-12-18 20:44:38,371 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 20:44:38,372 -             Leaving Function: eval_update_mapping
+2021-12-18 20:44:38,372 -             Entering Function: assign_feature with argument (df, config)
+2021-12-18 20:44:38,372 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:44:38,372 -                 Leaving Function: eval_elem_mapping
+2021-12-18 20:44:38,373 -             Leaving Function: assign_feature
+2021-12-18 20:44:38,373 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 20:44:38,373 -             Leaving Function: eval_func
+2021-12-18 20:44:38,373 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:44:38,373 -             Leaving Function: eval_elem_mapping
+2021-12-18 20:44:38,373 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-18 20:44:38,373 -             Leaving Function: eval_update_mapping
+2021-12-18 20:44:38,373 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:44:38,373 -             Leaving Function: eval_elem_mapping
+2021-12-18 20:44:38,373 -             Entering Function: rearrange_feature with argument (df, config)
+2021-12-18 20:44:38,373 -             Leaving Function: rearrange_feature
+2021-12-18 20:44:38,373 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-18 20:44:38,373 -             Leaving Function: eval_func
+2021-12-18 20:44:38,373 -             Entering Function: write_feature with argument (df, config)
+2021-12-18 20:44:38,373 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-18 20:44:38,373 -                 Leaving Function: eval_elem_mapping
+2021-12-18 20:44:38,373 -                 Entering Function: write with argument (df, description, path, file_type, index, separator=',', mode='new')
+2021-12-18 20:44:38,374 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-18 20:44:38,374 -                     Leaving Function: validate_path
+2021-12-18 20:44:38,374 -                     Entering Function: revise_file_path with argument (path)
+2021-12-18 20:44:38,374 -                     Leaving Function: revise_file_path
+2021-12-18 20:44:38,400 - potus account transformation records <5> were written to <fall2021py\data\potus_transformation_output.xlsx>
+2021-12-18 20:44:38,400 -                 Leaving Function: write
+2021-12-18 20:44:38,401 -             Leaving Function: write_feature
+2021-12-18 20:44:38,401 -         Leaving Function: run_transformation
+2021-12-18 20:44:38,401 - Leaving FlowData utility
+2021-12-19 14:39:41,438 - 
+2021-12-19 14:39:41,438 - Entering FlowData utility
+2021-12-19 14:39:41,438 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-19 14:39:41,438 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-19 14:39:41,438 -         Leaving Function: convert_namespace_to_dict
+2021-12-19 14:39:41,438 -         Entering Function: run_transformation with argument (args, config)
+2021-12-19 14:39:41,439 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:39:41,439 -             Leaving Function: eval_elem_mapping
+2021-12-19 14:39:41,439 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-19 14:39:41,439 -             Leaving Function: eval_update_mapping
+2021-12-19 14:39:41,439 -             Entering Function: read_feature with argument (config)
+2021-12-19 14:39:41,439 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:39:41,439 -                 Leaving Function: eval_elem_mapping
+2021-12-19 14:39:41,439 -                 Entering Function: read with argument (description, path, file_type='excel', separator=',', skip_rows=0, use_cols=None, sheet_name=0)
+2021-12-19 14:39:41,439 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-19 14:39:41,439 -                     Leaving Function: validate_path
+2021-12-19 14:39:42,121 - potus account transformation records <6300> were read from <fall2021py\data\potus_extraction_output_6.xlsx>
+2021-12-19 14:39:42,121 -                 Leaving Function: read
+2021-12-19 14:39:42,121 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:39:42,122 -                 Leaving Function: eval_elem_mapping
+2021-12-19 14:39:42,122 -             Leaving Function: read_feature
+2021-12-19 14:39:42,122 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-19 14:39:42,122 -             Leaving Function: eval_func
+2021-12-19 14:39:42,122 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:39:42,122 -             Leaving Function: eval_elem_mapping
+2021-12-19 14:39:42,122 -             Entering Function: aggregate_feature with argument (df, config)
+2021-12-19 14:39:42,142 -             Leaving Function: aggregate_feature
+2021-12-19 14:39:42,142 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:39:42,142 -             Leaving Function: eval_elem_mapping
+2021-12-19 14:39:42,142 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-19 14:39:42,142 -             Leaving Function: eval_update_mapping
+2021-12-19 14:39:42,142 -             Entering Function: assign_feature with argument (df, config)
+2021-12-19 14:39:42,142 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:39:42,142 -                 Leaving Function: eval_elem_mapping
+2021-12-19 14:39:42,144 -             Leaving Function: assign_feature
+2021-12-19 14:39:42,144 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-19 14:39:42,144 -             Leaving Function: eval_func
+2021-12-19 14:39:42,144 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:39:42,144 -             Leaving Function: eval_elem_mapping
+2021-12-19 14:39:42,144 -             Entering Function: duplicate_feature with argument (df, config)
+2021-12-19 14:39:42,157 -             Leaving Function: duplicate_feature
+2021-12-19 14:39:42,157 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:39:42,157 -             Leaving Function: eval_elem_mapping
+2021-12-19 14:39:42,157 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-19 14:39:42,158 -             Leaving Function: eval_update_mapping
+2021-12-19 14:39:42,158 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:39:42,158 -             Leaving Function: eval_elem_mapping
+2021-12-19 14:39:42,158 -             Entering Function: rearrange_feature with argument (df, config)
+2021-12-19 14:39:42,158 -             Leaving Function: rearrange_feature
+2021-12-19 14:39:42,158 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-19 14:39:42,158 -             Leaving Function: eval_func
+2021-12-19 14:39:42,158 -             Entering Function: write_feature with argument (df, config)
+2021-12-19 14:39:42,158 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:39:42,158 -                 Leaving Function: eval_elem_mapping
+2021-12-19 14:39:42,158 -                 Entering Function: write with argument (df, description, path, file_type, index, separator=',', mode='new')
+2021-12-19 14:39:42,158 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-19 14:39:42,158 -                     Leaving Function: validate_path
+2021-12-19 14:39:42,158 -                     Entering Function: revise_file_path with argument (path)
+2021-12-19 14:39:42,158 -                     Leaving Function: revise_file_path
+2021-12-19 14:39:42,202 - potus account transformation records <10> were written to <fall2021py\data\potus_transformation_output.xlsx>
+2021-12-19 14:39:42,202 -                 Leaving Function: write
+2021-12-19 14:39:42,202 -             Leaving Function: write_feature
+2021-12-19 14:39:42,202 -         Leaving Function: run_transformation
+2021-12-19 14:39:42,202 - Leaving FlowData utility
+2021-12-19 14:40:48,356 - 
+2021-12-19 14:40:48,356 - Entering FlowData utility
+2021-12-19 14:40:48,356 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-19 14:40:48,356 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-19 14:40:48,356 -         Leaving Function: convert_namespace_to_dict
+2021-12-19 14:40:48,356 -         Entering Function: run_transformation with argument (args, config)
+2021-12-19 14:40:48,356 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:40:48,356 -             Leaving Function: eval_elem_mapping
+2021-12-19 14:40:48,356 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-19 14:40:48,356 -             Leaving Function: eval_update_mapping
+2021-12-19 14:40:48,356 -             Entering Function: read_feature with argument (config)
+2021-12-19 14:40:48,356 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:40:48,356 -                 Leaving Function: eval_elem_mapping
+2021-12-19 14:40:48,356 -                 Entering Function: read with argument (description, path, file_type='excel', separator=',', skip_rows=0, use_cols=None, sheet_name=0)
+2021-12-19 14:40:48,356 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-19 14:40:48,357 -                     Leaving Function: validate_path
+2021-12-19 14:40:48,912 - potus account transformation records <6300> were read from <fall2021py\data\potus_extraction_output_6.xlsx>
+2021-12-19 14:40:48,912 -                 Leaving Function: read
+2021-12-19 14:40:48,912 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:40:48,912 -                 Leaving Function: eval_elem_mapping
+2021-12-19 14:40:48,912 -             Leaving Function: read_feature
+2021-12-19 14:40:48,912 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-19 14:40:48,912 -             Leaving Function: eval_func
+2021-12-19 14:40:48,912 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:40:48,912 -             Leaving Function: eval_elem_mapping
+2021-12-19 14:40:48,912 -             Entering Function: aggregate_feature with argument (df, config)
+2021-12-19 14:40:48,932 -             Leaving Function: aggregate_feature
+2021-12-19 14:40:48,932 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:40:48,932 -             Leaving Function: eval_elem_mapping
+2021-12-19 14:40:48,932 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-19 14:40:48,932 -             Leaving Function: eval_update_mapping
+2021-12-19 14:40:48,933 -             Entering Function: assign_feature with argument (df, config)
+2021-12-19 14:40:48,933 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:40:48,933 -                 Leaving Function: eval_elem_mapping
+2021-12-19 14:40:48,934 -             Leaving Function: assign_feature
+2021-12-19 14:40:48,934 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-19 14:40:48,934 -             Leaving Function: eval_func
+2021-12-19 14:40:48,934 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:40:48,934 -             Leaving Function: eval_elem_mapping
+2021-12-19 14:40:48,934 -             Entering Function: duplicate_feature with argument (df, config)
+2021-12-19 14:40:48,948 -             Leaving Function: duplicate_feature
+2021-12-19 14:40:48,948 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:40:48,948 -             Leaving Function: eval_elem_mapping
+2021-12-19 14:40:48,948 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-19 14:40:48,948 -             Leaving Function: eval_update_mapping
+2021-12-19 14:40:48,948 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:40:48,948 -             Leaving Function: eval_elem_mapping
+2021-12-19 14:40:48,948 -             Entering Function: rearrange_feature with argument (df, config)
+2021-12-19 14:40:48,948 -             Leaving Function: rearrange_feature
+2021-12-19 14:40:48,948 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-19 14:40:48,948 -             Leaving Function: eval_func
+2021-12-19 14:40:48,948 -             Entering Function: write_feature with argument (df, config)
+2021-12-19 14:40:48,949 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-19 14:40:48,949 -                 Leaving Function: eval_elem_mapping
+2021-12-19 14:40:48,949 -                 Entering Function: write with argument (df, description, path, file_type, index, separator=',', mode='new')
+2021-12-19 14:40:48,949 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-19 14:40:48,949 -                     Leaving Function: validate_path
+2021-12-19 14:40:48,949 -                     Entering Function: revise_file_path with argument (path)
+2021-12-19 14:40:48,949 -                     Leaving Function: revise_file_path
+2021-12-19 14:40:48,978 - potus account transformation records <10> were written to <fall2021py\data\potus_transformation_output.xlsx>
+2021-12-19 14:40:48,978 -                 Leaving Function: write
+2021-12-19 14:40:48,978 -             Leaving Function: write_feature
+2021-12-19 14:40:48,978 -         Leaving Function: run_transformation
+2021-12-19 14:40:48,978 - Leaving FlowData utility
+2021-12-21 15:42:01,537 - 
+2021-12-21 15:42:01,538 - Entering FlowData utility
+2021-12-21 15:42:01,538 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-21 15:42:01,538 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-21 15:42:01,538 -         Leaving Function: convert_namespace_to_dict
+2021-12-21 15:42:01,538 -         Entering Function: run_transformation with argument (args, config)
+2021-12-21 15:42:01,538 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 15:42:01,538 -             Leaving Function: eval_elem_mapping
+2021-12-21 15:42:01,538 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-21 15:42:01,538 -             Leaving Function: eval_update_mapping
+2021-12-21 15:42:01,538 -             Entering Function: read_feature with argument (config)
+2021-12-21 15:42:01,538 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 15:42:01,538 -                 Leaving Function: eval_elem_mapping
+2021-12-21 15:42:01,538 -                 Entering Function: read with argument (description, path, file_type='excel', separator=',', skip_rows=0, use_cols=None, sheet_name=0)
+2021-12-21 15:42:01,538 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-21 15:42:01,538 -                     Leaving Function: validate_path
+2021-12-21 15:42:02,206 - potus account transformation records <6300> were read from <fall2021py\data\potus_extraction_output_6.xlsx>
+2021-12-21 15:42:02,206 -                 Leaving Function: read
+2021-12-21 15:42:02,206 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 15:42:02,206 -                 Leaving Function: eval_elem_mapping
+2021-12-21 15:42:02,206 -             Leaving Function: read_feature
+2021-12-21 15:42:02,206 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 15:42:02,206 -             Leaving Function: eval_func
+2021-12-21 15:42:02,206 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 15:42:02,206 -             Leaving Function: eval_elem_mapping
+2021-12-21 15:42:02,206 -             Entering Function: aggregate_feature with argument (df, config)
+2021-12-21 15:42:02,229 -             Leaving Function: aggregate_feature
+2021-12-21 15:42:02,229 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 15:42:02,230 -             Leaving Function: eval_func
+2021-12-21 15:42:02,231 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 15:42:02,231 -             Leaving Function: eval_elem_mapping
+2021-12-21 15:42:02,231 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-21 15:42:02,231 -             Leaving Function: eval_update_mapping
+2021-12-21 15:42:02,231 -             Entering Function: assign_feature with argument (df, config)
+2021-12-21 15:42:02,231 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 15:42:02,231 -                 Leaving Function: eval_elem_mapping
+2021-12-21 15:42:02,232 -             Leaving Function: assign_feature
+2021-12-21 15:42:02,232 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 15:42:02,232 -             Leaving Function: eval_func
+2021-12-21 15:42:02,233 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 15:42:02,233 -             Leaving Function: eval_elem_mapping
+2021-12-21 15:42:02,233 -             Entering Function: duplicate_feature with argument (df, config)
+2021-12-21 15:42:02,247 -             Leaving Function: duplicate_feature
+2021-12-21 15:42:02,248 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 15:42:02,248 -             Leaving Function: eval_elem_mapping
+2021-12-21 15:42:02,248 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-21 15:42:02,248 -             Leaving Function: eval_update_mapping
+2021-12-21 15:42:02,248 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 15:42:02,248 -             Leaving Function: eval_elem_mapping
+2021-12-21 15:42:02,248 -             Entering Function: rearrange_feature with argument (df, config)
+2021-12-21 15:42:02,248 -             Leaving Function: rearrange_feature
+2021-12-21 15:42:02,248 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 15:42:02,248 -             Leaving Function: eval_func
+2021-12-21 15:42:02,248 -             Entering Function: write_feature with argument (df, config)
+2021-12-21 15:42:02,248 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 15:42:02,248 -                 Leaving Function: eval_elem_mapping
+2021-12-21 15:42:02,248 -                 Entering Function: write with argument (df, description, path, file_type, index, separator=',', mode='new')
+2021-12-21 15:42:02,248 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-21 15:42:02,248 -                     Leaving Function: validate_path
+2021-12-21 15:42:02,248 -                     Entering Function: revise_file_path with argument (path)
+2021-12-21 15:42:02,249 -                     Leaving Function: revise_file_path
+2021-12-21 15:42:02,293 - potus account transformation records <10> were written to <fall2021py\data\potus_transformation_output.xlsx>
+2021-12-21 15:42:02,293 -                 Leaving Function: write
+2021-12-21 15:42:02,293 -             Leaving Function: write_feature
+2021-12-21 15:42:02,293 -         Leaving Function: run_transformation
+2021-12-21 15:42:02,293 - Leaving FlowData utility
+2021-12-21 23:33:20,422 - 
+2021-12-21 23:33:20,422 - Entering FlowData utility
+2021-12-21 23:33:20,423 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-21 23:33:20,423 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-21 23:33:20,423 -         Leaving Function: convert_namespace_to_dict
+2021-12-21 23:33:20,423 -         Entering Function: run_transformation with argument (args, config)
+2021-12-21 23:33:20,423 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:33:20,423 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:33:20,423 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-21 23:33:20,423 -             Leaving Function: eval_update_mapping
+2021-12-21 23:33:20,423 -             Entering Function: read_feature with argument (config)
+2021-12-21 23:33:20,423 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:33:20,423 -                 Leaving Function: eval_elem_mapping
+2021-12-21 23:33:20,423 -                 Entering Function: read with argument (description, path, file_type='excel', separator=',', skip_rows=0, use_cols=None, sheet_name=0)
+2021-12-21 23:33:20,423 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-21 23:33:20,423 -                     Leaving Function: validate_path
+2021-12-21 23:33:21,042 - potus account transformation records <6300> were read from <fall2021py\data\potus_extraction_output_6.xlsx>
+2021-12-21 23:33:21,042 -                 Leaving Function: read
+2021-12-21 23:33:21,043 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:33:21,043 -                 Leaving Function: eval_elem_mapping
+2021-12-21 23:33:21,043 -             Leaving Function: read_feature
+2021-12-21 23:33:21,043 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 23:33:21,043 -             Leaving Function: eval_func
+2021-12-21 23:33:21,043 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:33:21,043 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:33:21,043 -             Entering Function: aggregate_feature with argument (df, config)
+2021-12-21 23:33:21,064 -             Leaving Function: aggregate_feature
+2021-12-21 23:33:21,064 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:33:21,064 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:33:21,064 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 23:33:21,065 -             Leaving Function: eval_func
+2021-12-21 23:33:21,065 -             Entering Function: calc_total_assets_for_all_stocks_plugin with argument (df, config)
+2021-12-21 23:33:21,065 - Leaving FlowData utility incomplete with errors
+2021-12-21 23:35:03,733 - 
+2021-12-21 23:35:03,733 - Entering FlowData utility
+2021-12-21 23:35:03,733 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-21 23:35:03,733 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-21 23:35:03,733 -         Leaving Function: convert_namespace_to_dict
+2021-12-21 23:35:03,733 -         Entering Function: run_transformation with argument (args, config)
+2021-12-21 23:35:03,733 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:35:03,733 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:35:03,733 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-21 23:35:03,733 -             Leaving Function: eval_update_mapping
+2021-12-21 23:35:03,733 -             Entering Function: read_feature with argument (config)
+2021-12-21 23:35:03,733 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:35:03,734 -                 Leaving Function: eval_elem_mapping
+2021-12-21 23:35:03,734 -                 Entering Function: read with argument (description, path, file_type='excel', separator=',', skip_rows=0, use_cols=None, sheet_name=0)
+2021-12-21 23:35:03,734 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-21 23:35:03,734 -                     Leaving Function: validate_path
+2021-12-21 23:35:04,326 - potus account transformation records <6300> were read from <fall2021py\data\potus_extraction_output_6.xlsx>
+2021-12-21 23:35:04,326 -                 Leaving Function: read
+2021-12-21 23:35:04,326 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:35:04,326 -                 Leaving Function: eval_elem_mapping
+2021-12-21 23:35:04,326 -             Leaving Function: read_feature
+2021-12-21 23:35:04,326 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 23:35:04,326 -             Leaving Function: eval_func
+2021-12-21 23:35:04,326 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:35:04,326 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:35:04,326 -             Entering Function: aggregate_feature with argument (df, config)
+2021-12-21 23:35:04,350 -             Leaving Function: aggregate_feature
+2021-12-21 23:35:04,350 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:35:04,350 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:35:04,350 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 23:35:04,351 -             Leaving Function: eval_func
+2021-12-21 23:35:04,351 -             Entering Function: calc_total_assets_for_all_stocks_plugin with argument (df, config)
+2021-12-21 23:35:04,352 -             Leaving Function: calc_total_assets_for_all_stocks_plugin
+2021-12-21 23:35:04,352 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:35:04,352 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:35:04,352 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-21 23:35:04,352 -             Leaving Function: eval_update_mapping
+2021-12-21 23:35:04,352 -             Entering Function: assign_feature with argument (df, config)
+2021-12-21 23:35:04,352 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:35:04,352 -                 Leaving Function: eval_elem_mapping
+2021-12-21 23:35:04,353 -             Leaving Function: assign_feature
+2021-12-21 23:35:04,353 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:35:04,354 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:35:04,354 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 23:35:04,354 -             Leaving Function: eval_func
+2021-12-21 23:35:04,354 -             Entering Function: add_hour_min_sec_into_assign_date_plugin with argument (df, config)
+2021-12-21 23:35:04,354 -             Leaving Function: add_hour_min_sec_into_assign_date_plugin
+2021-12-21 23:35:04,354 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:35:04,354 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:35:04,354 -             Entering Function: duplicate_feature with argument (df, config)
+2021-12-21 23:35:04,368 -             Leaving Function: duplicate_feature
+2021-12-21 23:35:04,368 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:35:04,368 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:35:04,369 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-21 23:35:04,369 -             Leaving Function: eval_update_mapping
+2021-12-21 23:35:04,369 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:35:04,369 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:35:04,369 -             Entering Function: rearrange_feature with argument (df, config)
+2021-12-21 23:35:04,369 -             Leaving Function: rearrange_feature
+2021-12-21 23:35:04,369 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 23:35:04,369 -             Leaving Function: eval_func
+2021-12-21 23:35:04,369 -             Entering Function: write_feature with argument (df, config)
+2021-12-21 23:35:04,369 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:35:04,369 -                 Leaving Function: eval_elem_mapping
+2021-12-21 23:35:04,369 -                 Entering Function: write with argument (df, description, path, file_type, index, separator=',', mode='new')
+2021-12-21 23:35:04,369 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-21 23:35:04,370 -                     Leaving Function: validate_path
+2021-12-21 23:35:04,370 -                     Entering Function: revise_file_path with argument (path)
+2021-12-21 23:35:04,370 -                     Leaving Function: revise_file_path
+2021-12-21 23:35:04,398 - potus account transformation records <10> were written to <fall2021py\data\potus_transformation_output.xlsx>
+2021-12-21 23:35:04,398 -                 Leaving Function: write
+2021-12-21 23:35:04,398 -             Leaving Function: write_feature
+2021-12-21 23:35:04,398 -         Leaving Function: run_transformation
+2021-12-21 23:35:04,398 - Leaving FlowData utility
+2021-12-21 23:36:44,185 - 
+2021-12-21 23:36:44,185 - Entering FlowData utility
+2021-12-21 23:36:44,185 -     Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-21 23:36:44,185 -         Entering Function: convert_namespace_to_dict with argument (mapping)
+2021-12-21 23:36:44,185 -         Leaving Function: convert_namespace_to_dict
+2021-12-21 23:36:44,185 -         Entering Function: run_transformation with argument (args, config)
+2021-12-21 23:36:44,186 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:36:44,186 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:36:44,186 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-21 23:36:44,186 -             Leaving Function: eval_update_mapping
+2021-12-21 23:36:44,186 -             Entering Function: read_feature with argument (config)
+2021-12-21 23:36:44,186 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:36:44,186 -                 Leaving Function: eval_elem_mapping
+2021-12-21 23:36:44,186 -                 Entering Function: read with argument (description, path, file_type='excel', separator=',', skip_rows=0, use_cols=None, sheet_name=0)
+2021-12-21 23:36:44,186 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-21 23:36:44,186 -                     Leaving Function: validate_path
+2021-12-21 23:36:44,756 - potus account transformation records <6300> were read from <fall2021py\data\potus_extraction_output_6.xlsx>
+2021-12-21 23:36:44,757 -                 Leaving Function: read
+2021-12-21 23:36:44,757 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:36:44,757 -                 Leaving Function: eval_elem_mapping
+2021-12-21 23:36:44,757 -             Leaving Function: read_feature
+2021-12-21 23:36:44,757 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 23:36:44,757 -             Leaving Function: eval_func
+2021-12-21 23:36:44,757 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:36:44,757 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:36:44,757 -             Entering Function: aggregate_feature with argument (df, config)
+2021-12-21 23:36:44,778 -             Leaving Function: aggregate_feature
+2021-12-21 23:36:44,778 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:36:44,778 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:36:44,778 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 23:36:44,779 -             Leaving Function: eval_func
+2021-12-21 23:36:44,780 -             Entering Function: calc_total_assets_for_all_stocks_plugin with argument (df, config)
+2021-12-21 23:36:44,781 -             Leaving Function: calc_total_assets_for_all_stocks_plugin
+2021-12-21 23:36:44,781 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:36:44,781 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:36:44,781 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-21 23:36:44,781 -             Leaving Function: eval_update_mapping
+2021-12-21 23:36:44,781 -             Entering Function: assign_feature with argument (df, config)
+2021-12-21 23:36:44,781 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:36:44,781 -                 Leaving Function: eval_elem_mapping
+2021-12-21 23:36:44,782 -             Leaving Function: assign_feature
+2021-12-21 23:36:44,782 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:36:44,782 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:36:44,782 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 23:36:44,782 -             Leaving Function: eval_func
+2021-12-21 23:36:44,783 -             Entering Function: add_hour_min_sec_into_assign_date_plugin with argument (df, config)
+2021-12-21 23:36:44,783 -             Leaving Function: add_hour_min_sec_into_assign_date_plugin
+2021-12-21 23:36:44,783 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:36:44,783 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:36:44,783 -             Entering Function: duplicate_feature with argument (df, config)
+2021-12-21 23:36:44,798 -             Leaving Function: duplicate_feature
+2021-12-21 23:36:44,798 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:36:44,798 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:36:44,798 -             Entering Function: eval_update_mapping with argument (mapping, key, update_with)
+2021-12-21 23:36:44,798 -             Leaving Function: eval_update_mapping
+2021-12-21 23:36:44,798 -             Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:36:44,798 -             Leaving Function: eval_elem_mapping
+2021-12-21 23:36:44,798 -             Entering Function: rearrange_feature with argument (df, config)
+2021-12-21 23:36:44,798 -             Leaving Function: rearrange_feature
+2021-12-21 23:36:44,799 -             Entering Function: eval_func with argument (mapping, func_key)
+2021-12-21 23:36:44,799 -             Leaving Function: eval_func
+2021-12-21 23:36:44,799 -             Entering Function: write_feature with argument (df, config)
+2021-12-21 23:36:44,799 -                 Entering Function: eval_elem_mapping with argument (mapping, key, default_value=None)
+2021-12-21 23:36:44,799 -                 Leaving Function: eval_elem_mapping
+2021-12-21 23:36:44,799 -                 Entering Function: write with argument (df, description, path, file_type, index, separator=',', mode='new')
+2021-12-21 23:36:44,799 -                     Entering Function: validate_path with argument (path, file_mode=True)
+2021-12-21 23:36:44,799 -                     Leaving Function: validate_path
+2021-12-21 23:36:44,799 -                     Entering Function: revise_file_path with argument (path)
+2021-12-21 23:36:44,799 -                     Leaving Function: revise_file_path
+2021-12-21 23:36:44,826 - potus account transformation records <10> were written to <fall2021py\data\potus_transformation_output.xlsx>
+2021-12-21 23:36:44,826 -                 Leaving Function: write
+2021-12-21 23:36:44,826 -             Leaving Function: write_feature
+2021-12-21 23:36:44,826 -         Leaving Function: run_transformation
+2021-12-21 23:36:44,826 - Leaving FlowData utility

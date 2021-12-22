@@ -14,6 +14,16 @@
             "dest": "mapping_path",
             "help": "Mapping data path",
             "required": "True"
+        },
+        "-run_date": {
+            "dest": "run_date",
+            "help": "As-of date of running process",
+            "required": "True"
+        },
+        "-description": {
+            "dest": "description",
+            "help": "Process description",
+            "required": "True"
         }
     },
     "extraction": {
@@ -51,17 +61,41 @@
             ],
             "plugin": null
         },
-        "output": {
-            "col_rename": {
-                "EOY_AMT": "AMOUNT",
-                "INS_OPTION_MNEMO": "EXT_ACCOUNT",
-                "INS_ACCOUNT": "MAP_ACCOUNT"
+        "assign": {
+            "col_const": {
+                "ASSIGN_CURRENCY": "USD",
+                "ASSIGN_ACCOUNT": "SFELDMAN",
+                "ASSIGN_COMMENTS": ""
             },
-            "assign_static": {
-                "CURRENCY": "USD",
-                "ACCOUNT": "SFELDMAN"
+            "col_var": {
+                "ASSIGN_DATE": "run_date",
+                "ASSIGN_DESCRIPTION": "description"
             },
             "plugin": null
+        },
+        "output": {
+            "rearrange": {
+                "col_rename": {
+                    "EOY_AMT": "AMOUNT",
+                    "INS_OPTION_MNEMO": "EXT_ACCOUNT",
+                    "INS_ACCOUNT": "MAP_ACCOUNT",
+                    "ASSIGN_CURRENCY": "CURRENCY",
+                    "ASSIGN_ACCOUNT": "ACCOUNT",
+                    "ASSIGN_DATE": "RUN_DATE",
+                    "ASSIGN_DESCRIPTION": "DESCRIPTION",
+                    "ASSIGN_COMMENTS": "COMMENTS",
+                    "CLIENT_TYPE": "TYPE"
+                },
+                "col_reorder": [
+                    "RUN_DATE", "DESCRIPTION", "AMOUNT", "CURRENCY", "ACCOUNT", "EXT_ACCOUNT", "MAP_ACCOUNT", "TYPE", "COMMENTS"
+                ],
+                "plugin": null
+            },
+            "write": {
+                "file_type": "csv",
+                "separator": "|"
+            },
+            "plugin": "fall2021.apps.flowdata.src.plugin_util.add_datetime_into_comments_plugin"
         }
     }
 }

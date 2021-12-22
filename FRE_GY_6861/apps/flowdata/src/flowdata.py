@@ -7,6 +7,8 @@ from types import SimpleNamespace as Namespace
 
 import fall2021py.utils.etl_util as etlu
 import fall2021py.utils.misc_util as miscu
+from fall2021py.utils.misc_util import log_trace
+# import fall2021py.apps.flowdata.src.plugin_util
 
 
 RETURN_SUCCESS = 0
@@ -20,17 +22,18 @@ def main(argv):
         args, process_name, process_type, process_config = _interpret_args(argv)
 
         # Initialize standard logging \ destination file handlers.
-        # TODO: Finish/fix logging below.
-        std_filename = ".\\fall2021py\\flowdata.log"
+        if args.log_path:
+            std_filename = args.log_path
+        else:
+            std_filename = ".\\fall2021py\\flowdata.log"
+
         logging.basicConfig(filename=std_filename, filemode='a',
                             format='%(asctime)s - %(message)s', level=logging.DEBUG)
         logging.info('')
         logging.info(f'Entering {APP}')
 
         # Preparation step.
-        # TODO: Change below initializations to be conversion
-        #  from Namespace to dict (args, feature_config).
-        mapping_args = miscu.convert_namespace_to_dict(args)  # dictionary (input of run_extraction())
+        mapping_args = miscu.convert_namespace_to_dict(args)
         mapping_conf = miscu.convert_namespace_to_dict(process_config)
 
         # Workflow steps.
@@ -88,8 +91,14 @@ def _interpret_args(argv):
     return arg_parser.parse_args(argv), process_name, process_type, process_config
 
 
-@ miscu.log_trace
+@ log_trace
 def run_extraction(args, config):
+    """
+    Extraction process
+    :param args: dict; Command line arguments mapping
+    :param config: dict; Configuration mapping
+    :return: null
+    """
 
     # --------------------------------
     # Input section
@@ -99,25 +108,13 @@ def run_extraction(args, config):
     # Inject 'path' and 'description' into <input> config section.
     input_update_with = {'path': miscu.eval_elem_mapping(args, 'input_path'), 'description': config['description']}
     input_config = miscu.eval_elem_mapping(config, 'input')
-    # 'input' -- 'read' feature in the configuration json file
-    # for example
-    # {'file_type': 'csv',
-    #  'separator': ',',
-    #  'apply_dtype': {'Date': 'str',
-    #                  'Open': 'float',
-    #                  'High': 'float',
-    #                  'Low': 'float',
-    #                  'Close': 'float',
-    #                  'stk_code': 'str'},
-    #  'path': 'D:\\常用\\NYU\\2021Fall\\Course\\FRE-GY 6861\\fall2021py\\data\\stock_extraction_input.csv',
-    #  'description': 'POTUS Account'}
     input_read_config = miscu.eval_update_mapping(input_config, "read", input_update_with)
 
     # Run read ETL feature.
     df_target = etlu.read_feature(input_read_config)
 
     # Engage plugin from <input> config section, if available.
-    input_plugin = miscu.eval_elem_mapping(input_config, "plugin")
+    input_plugin = miscu.eval_func(input_config, "plugin")
     if input_plugin:
         df_target = input_plugin(df_target)
 
@@ -129,59 +126,64 @@ def run_extraction(args, config):
     # Inject 'path' and 'description' into <mapping> config section.
     mapping_update_with = {'path': miscu.eval_elem_mapping(args, 'mapping_path'), 'description': config['description']}
     mapping_config = miscu.eval_elem_mapping(config, 'mapping')
-    # this is a config with values under key 'read', together with values under key 'path' and 'description'
-    # for example
-    # {'file_type': 'excel',
-    #  'skip_rows': 0,
-    #  'use_cols': 'A,B',
-    #  'sheet_name': 0,
-    #  'apply_dtype': {'INS': 'str', 'INS_ACCOUNT': 'str'},
-    #  'path': 'D:\\常用\\NYU\\2021Fall\\Course\\FRE-GY 6861\\fall2021py\\data\\sergefeldman_extraction_mapping.csv',
-    #  'description': 'serge'}
-    # this function will automatically update values of key 'read' under original dictionary
     mapping_read_config = miscu.eval_update_mapping(mapping_config, 'read', mapping_update_with)
 
     # Run mapping ETL feature.
-    # still use the mapping_config as it includes updated dict under key 'read'
-    # and other key-value pairs like 'left on' for merge function
-    # for example
-    # {'read': {'file_type': 'excel',
-    #           'skip_rows': 0,
-    #           'use_cols': 'A,B',
-    #           'sheet_name': 0,
-    #           'apply_dtype': {'INS': 'str', 'INS_ACCOUNT': 'str'},
-    #           'path': 'D:\\常用\\NYU\\2021Fall\\Course\\FRE-GY 6861\\fall2021py\\
-    #                    data\\sergefeldman_extraction_mapping.csv',
-    #           'description': 'serge'},
-    #  'left_on': ['INS_CODE'],
-    #  'right_on': ['INS'],
-    #  'plugin': None}
-    # which can be used for function mapping_feature()
     df_target = etlu.mapping_feature(df_target, mapping_config)
+
+    # Engage plugin from <mapping> config section, if available.
+    mapping_plugin = miscu.eval_func(mapping_config, "plugin")
+    if mapping_plugin:
+        df_target = mapping_plugin(df_target)
+
+    # --------------------------------
+    # Assignment section
+    # --------------------------------
+
+    # Prepare assign_var configuration section, by getting values from args configuration.
+    # assign_config = miscu.eval_elem_mapping(config, 'assign')
+    # assign_config_var = miscu.eval_elem_mapping(assign_config, 'col_var')
+    # assign_update_with = dict()
+    # for col_name, args_key in assign_config_var.items():
+    #     assign_update_with[col_name] = args[args_key]
+    # assign_config_var = miscu.eval_update_mapping(assign_config, 'col_var', assign_update_with)
+    #
+    # # Run assignment ETL feature.
+    # df_target = etlu.assign_feature(df_target, assign_config)
+    #
+    # # Engage plugin from <assign> config section, if available.
+    # assign_plugin = miscu.eval_func(assign_config, "plugin")
+    # if assign_plugin:
+    #     df_target = assign_plugin(df_target)
 
     # --------------------------------
     # Output section
     # --------------------------------
 
-    # TODO: Implement and complete this section with the following steps:
-
-    # TODO: Prepare additional output parameters and update appropriate configuration section.
-    #  add configuration 'write' to json file
-    #  and enhance write_feature() under etl_util.py (write() should be used from file_util.py)
-
-    # TODO: Inject 'path' and 'description' into <output> config section.
+    # Prepare additional output parameters and update appropriate configuration section.
+    # Inject 'path' and 'description' into <output> config section.
     output_update_with = {'path': miscu.eval_elem_mapping(args, 'output_path'), 'description': config['description']}
     output_config = miscu.eval_elem_mapping(config, 'output')
-    # update original configuration with updated configuration 'write'
     output_write_config = miscu.eval_update_mapping(output_config, 'write', output_update_with)
 
-    # TODO: Run write ETL feature.
-    etlu.write_feature(df_target, output_config)
+    # --------------------------------
+    # Rearrange section
+    # --------------------------------
 
-    return df_target
+    # Run rearrange ETL feature.
+    rearrange_config = miscu.eval_elem_mapping(output_config, 'rearrange')
+    df_target = etlu.rearrange_feature(df_target, rearrange_config)
+
+    # Engage plugin from <output> config section, if available.
+    output_plugin = miscu.eval_func(output_config, "plugin")
+    if output_plugin:
+        df_target = output_plugin(df_target)
+
+    # Run write ETL feature.
+    etlu.write_feature(df_target, output_write_config)
 
 
-@ miscu.log_trace
+@ log_trace
 def run_transformation(args, config):
     """
     Transformation process
@@ -195,18 +197,53 @@ def run_transformation(args, config):
     # --------------------------------
 
     # Extract normalized data source (output of Extraction process)
+    input_update_with = {'path': miscu.eval_elem_mapping(args, 'input_path'), 'description': config['description']}
+    input_config = miscu.eval_elem_mapping(config, 'input')
+    input_read_config = miscu.eval_update_mapping(input_config, "read", input_update_with)
+
+    # Run read ETL feature.
+    df_target = etlu.read_feature(input_read_config)
+
+    # Engage plugin from <input> config section, if available.
+    input_plugin = miscu.eval_func(input_config, "plugin")
+    if input_plugin:
+        df_target = input_plugin(df_target)
 
     # --------------------------------
     # Aggregate section
     # --------------------------------
 
     # Run aggregate ETL feature to sum AMOUNT column, grouping by the combination of EXT_ACCOUNT, MAP_ACCOUNT, TYPE.
+    aggregate_config = miscu.eval_elem_mapping(config, 'aggregate')
+    df_target = etlu.aggregate_feature(df_target, aggregate_config)
+
+    # Engage plugin from <aggregate> config section, this plugin is used for calculating total assets.
+    aggregate_plugin = miscu.eval_elem_mapping(aggregate_config, "plugin")
+    aggregate_plugin_module = miscu.eval_func(aggregate_plugin, "module")
+    if aggregate_plugin_module:
+        df_target = aggregate_plugin_module(df_target, aggregate_plugin)
 
     # --------------------------------
     # Assignment section
     # --------------------------------
 
     # Run assignment ETL feature (as per requirements).
+    # Prepare assign_var configuration section, by getting values from args configuration.
+    assign_config = miscu.eval_elem_mapping(config, 'assign')
+    assign_config_var = miscu.eval_elem_mapping(assign_config, 'col_var')
+    assign_update_with = dict()
+    for col_name, args_key in assign_config_var.items():
+        assign_update_with[col_name] = args[args_key]
+    assign_config_var = miscu.eval_update_mapping(assign_config, 'col_var', assign_update_with)
+
+    # Run assignment ETL feature.
+    df_target = etlu.assign_feature(df_target, assign_config)
+
+    # Engage plugin from <assign> config section, if available.
+    assign_plugin = miscu.eval_elem_mapping(assign_config, "plugin")
+    assign_plugin_module = miscu.eval_func(assign_plugin, "module")
+    if assign_plugin_module:
+        df_target = assign_plugin_module(df_target, assign_plugin)
 
     # --------------------------------
     # Duplication section
@@ -214,26 +251,42 @@ def run_transformation(args, config):
 
     # Run duplicate ETL feature (as per requirements).
     # Sign of Amount value of duplicated row will be flipped
+    duplicate_config = miscu.eval_elem_mapping(config, 'duplicate')
+    df_target = etlu.duplicate_feature(df_target, duplicate_config)
 
     # --------------------------------
     # Output section
     # --------------------------------
+
+    # Prepare additional output parameters and update appropriate configuration section.
+    # Inject 'path' and 'description' into <output> config section.
+    output_update_with = {'path': miscu.eval_elem_mapping(args, 'output_path'),
+                          'description': config['description']}
+    output_config = miscu.eval_elem_mapping(config, 'output')
+    output_write_config = miscu.eval_update_mapping(output_config, 'write', output_update_with)
 
     # --------------------------------
     # Rearrange section
     # --------------------------------
 
     # Run rearrange ETL feature.
+    rearrange_config = miscu.eval_elem_mapping(output_config, 'rearrange')
+    df_target = etlu.rearrange_feature(df_target, rearrange_config)
 
-    # Engage plugin from <output> config section.
+    # Engage plugin from <output> config section, if available.
     # Our plugin will add Total Amount value.
+    output_plugin = miscu.eval_func(output_config, "plugin")
+    if output_plugin:
+        df_target = output_plugin(df_target)
 
     # Run write ETL feature.
+    etlu.write_feature(df_target, output_write_config)
 
 
 if __name__ == '__main__':
     # Call main process.
     sys.exit(main(sys.argv[1:]))
+
     # command
     # python. / flowdata.py - process sergefeldman_extraction - log
     # c:\temp\flowdata.log - input
@@ -241,4 +294,22 @@ if __name__ == '__main__':
     # c:\download\git\fall2021\data\sergefeldman_mapping.csv - output
     # c:\download\git\fall2021\data\sergefeldman_output.csv
 
-    # python -m fall2021py.apps.flowdata.src.flowdata -process potus_extraction -log D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\flowdata.log -input D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_input.csv -mapping D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_mapping.xlsx -output D:\常用\NYU\2021Fall\Course\FRE-GY_6861\fall2021py\data\potus_extraction_output.xlsx
+    # extraction
+    # python - m
+    # fall2021py.apps.flowdata.src.flowdata - process
+    # potus_extraction - log
+    # fall2021py\flowdata.log - input
+    # fall2021py\data\potus_extraction_input.csv - mapping
+    # fall2021py\data\potus_extraction_mapping.xlsx - output
+    # fall2021py\data\potus_extraction_output.xlsx
+
+    # transformation
+    # python - m
+    # fall2021py.apps.flowdata.src.flowdata - process
+    # potus_transformation - log
+    # fall2021py\flowdata.log - input
+    # fall2021py\data\potus_extraction_output_6.xlsx - mapping
+    # fall2021py\data\potus_extraction_mapping.xlsx - output
+    # fall2021py\data\potus_transformation_output.xlsx - run_date
+    # "2021-12-18" - description
+    # "transformation test"

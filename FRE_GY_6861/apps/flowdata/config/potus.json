@@ -14,6 +14,16 @@
             "dest": "mapping_path",
             "help": "Mapping data path",
             "required": "True"
+        },
+        "-run_date": {
+            "dest": "run_date",
+            "help": "As-of date of running process",
+            "required": "True"
+        },
+        "-description": {
+            "dest": "description",
+            "help": "Process description",
+            "required": "True"
         }
     },
     "extraction": {
@@ -61,16 +71,17 @@
                 "sheet_name": 0,
                 "mode": "new"
             },
-            "col_rename": {
-                "Date": "DATE",
-                "Close": "CLOSE",
-                "stk_code": "TICKER",
-                "customer_name": "CUSTOMER",
-                "stock_position": "POSITION"
-            },
-            "assign_static": {
-                "CURRENCY": "USD",
-                "ACCOUNT": "POTUS"
+            "rearrange": {
+                "col_rename": {
+                    "Date": "DATE",
+                    "Close": "CLOSE",
+                    "stk_code": "TICKER",
+                    "customer_name": "CUSTOMER",
+                    "stock_position": "POSITION"
+                },
+                "col_reorder": [
+                    "DATE", "CUSTOMER", "TICKER", "POSITION", "CLOSE"
+                ]
             },
             "plugin": null
         }
@@ -81,53 +92,54 @@
             "read": {
                 "file_type": "excel",
                 "skip_rows": 0,
-                "sheet_name": 0,
-                "apply_dtype": {
-                    "DATE": "datetime",
-                    "CLOSE": "float",
-                    "TICKER": "str",
-                    "CUSTOMER": "str",
-                    "POSITION": "int",
-                    "CURRENCY": "str",
-                    "ACCOUNT": "str"
-                }
+                "sheet_name": 0
             },
             "plugin": null
         },
-        "transform": {
-            "group_by": {
-                "groupby": [
-                "CUSTOMER", "TICKER"
-                ],
-                "columns": [
-                    "POSITION", "CLOSE"
-                ]
-            },
-            "pivot_table": {
-                "values": [
-                    "CLOSE", "POSITION"
-                ],
-                "index": [
-                    "CUSTOMER"
-                ],
-                "columns": [
-                    "TICKER"
-                ],
-                "aggfunc": "np.mean"
-            },
-            "plugin": null
+        "aggregate": {
+            "type": "pivot",
+            "aggfunc": "np.mean",
+            "calc_total_assets": "TOTAL",
+            "values": [
+                "CLOSE", "POSITION"
+            ],
+            "index": [
+                "CUSTOMER"
+            ],
+            "columns": [
+                "TICKER"
+            ],
+            "plugin": {
+                "module": "fall2021py.utils.plugin_util.calc_total_assets_for_all_stocks_plugin",
+                "new_col_name": "TOTAL",
+                "old_col_name": ["TOTAL_AAPL", "TOTAL_AMZN", "TOTAL_FB", "TOTAL_MSFT", "TOTAL_GOOGL"]
+            }
         },
+        "assign": {
+            "col_const": {
+                "CURRENCY": "USD",
+                "ACCOUNT": "POTUS"
+            },
+            "col_var": {
+                "ASSIGN_DATE": "run_date",
+                "ASSIGN_DESCRIPTION": "description"
+            },
+            "plugin": {
+                "module": "fall2021py.utils.plugin_util.add_hour_min_sec_into_assign_date_plugin",
+                "col_need_change": "ASSIGN_DATE"
+            }
+        },
+        "duplicate": "True",
         "output": {
             "write": {
                 "file_type": "excel",
                 "sheet_name": 0,
-                "mode": "new",
-                "apply_dtype": {
-                    "customer_name": "str",
-                    "account_number": "int",
-                    "stock_position": "int",
-                    "stock_name": "str"
-                }
+                "mode": "new"
+            },
+            "rearrange": {
+                "col_reorder": [
+                    "ASSIGN_DATE", "ASSIGN_DESCRIPTION", "ACCOUNT", "CUSTOMER", "TOTAL", "CURRENCY"
+                ]
             },
             "plugin": null
         }
