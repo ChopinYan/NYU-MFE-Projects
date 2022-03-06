@@ -1,0 +1,4 @@
+- put your notebook and the backtest package in the same folder
+- import the EasyBacktest class from the package
+- initialize and run backtest
+- pls see the Example for detail
