@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "28a42d55-e5fb-440d-b05d-0887c627dbc8": {
+      "ProjectGuid": "28a42d55-e5fb-440d-b05d-0887c627dbc8",
+      "DisplayName": "BinLatticeStoppingTree",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de2ffac2-171d-4bc4-9482-a86ef1bcca2a": {
+      "ProjectGuid": "de2ffac2-171d-4bc4-9482-a86ef1bcca2a",
+      "DisplayName": "AmericanOption",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
