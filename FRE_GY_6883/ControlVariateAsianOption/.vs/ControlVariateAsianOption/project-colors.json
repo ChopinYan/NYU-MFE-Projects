@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02523c93-6471-43b4-8ffc-4ce7cc6fad1d": {
+      "ProjectGuid": "02523c93-6471-43b4-8ffc-4ce7cc6fad1d",
+      "DisplayName": "ControlVariateAsianOption",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

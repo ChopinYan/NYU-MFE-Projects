@@ -1,0 +1,5 @@
+﻿  AsianOption.cpp
+  PathDepOption.cpp
+D:\常用\NYU\2022 Spring\Course\FRE_GY_6883\AsianOption\AsianOption\PathDepOption.cpp(37,19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  AsianOption.vcxproj -> D:\常用\NYU\2022 Spring\Course\FRE_GY_6883\AsianOption\x64\Debug\AsianOption.exe
